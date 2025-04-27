@@ -3,7 +3,7 @@ import os
 
 class Config:
     # Google Books API
-    GOOGLE_BOOKS_API_KEY = "AIzaSyC5VzDhemjM9n1CV6HWG8DyOWdYtPYDAdM" #os.getenv('GOOGLE_BOOKS_API_KEY', '')
+    GOOGLE_BOOKS_API_KEY = os.getenv('GOOGLE_BOOKS_API_KEY', '')
 
     # Translation
     TRANSLATION_TIMEOUT = 15
