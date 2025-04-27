@@ -1,0 +1,14 @@
+services:
+  tbook_parser:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=production
+      - GOOGLE_BOOKS_API_KEY=${GOOGLE_BOOKS_API_KEY}
+    volumes:
+      - argos_data:/usr/local/lib/python3.11/site-packages/argostranslate/packages
+    restart: unless-stopped
+
+volumes:
+  argos_data:

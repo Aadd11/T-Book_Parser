@@ -15,6 +15,10 @@ class BaseTranslator(ABC):
 
 class TranslationManager:
     _translator = None
+    # Fields to skip during translation
+    SKIP_FIELDS = {'language', 'genre', 'genres', 'language_code'}
+    # Entity types to skip during translation
+    SKIP_ENTITIES = {'Genre', 'Language'}
 
     @classmethod
     def initialize(cls):
@@ -29,5 +33,28 @@ class TranslationManager:
 
     @classmethod
     async def translate(cls, data: Union[str, List, Dict]) -> Any:
-        from utils.data_processor import DataProcessor  # Import the class
-        return await DataProcessor.process(data, cls._translator)  # Use the class method
+        if isinstance(data, dict):
+            return await cls._translate_dict(data)
+        elif isinstance(data, list):
+            return await cls._translate_list(data)
+        elif isinstance(data, str):
+            return await cls._translator.translate_text(data)
+        return data
+
+    @classmethod
+    async def _translate_dict(cls, data: Dict) -> Dict:
+        """Process dictionary while skipping specified fields"""
+        translated = {}
+        for key, value in data.items():
+            # Skip translation for specified fields and entities
+            if (key in cls.SKIP_FIELDS or
+                any(entity in str(key) for entity in cls.SKIP_ENTITIES)):
+                translated[key] = value
+            else:
+                translated[key] = await cls.translate(value)
+        return translated
+
+    @classmethod
+    async def _translate_list(cls, data: List) -> List:
+        """Process list items"""
+        return await asyncio.gather(*[cls.translate(item) for item in data])

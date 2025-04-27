@@ -14,14 +14,10 @@ open_lib_bp = Blueprint('open_library', __name__)
 @open_lib_bp.route('/search/openlib', methods=['GET'])
 @async_route
 async def search_openlib():
-    return await _search_openlib(language='en')
-
-
-@open_lib_bp.route('/search/openlib/ru', methods=['GET'])
-@async_route
-async def search_openlib_ru():
-    return await _search_openlib(language='ru')
-
+    lang = request.args.get('lang', 'en').lower()  # default to English
+    if lang not in ('en', 'ru'):
+        lang = 'en'  # fallback to English if invalid language
+    return await _search_openlib(language=lang)
 
 async def _search_openlib(language: str):
     start_time = datetime.now()

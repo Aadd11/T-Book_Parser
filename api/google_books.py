@@ -9,20 +9,16 @@ from datetime import datetime
 
 logger = logging.getLogger(__name__)
 google_books_bp = Blueprint('google_books', __name__)
-parser = GoogleBooksParser(api_key=Config.GOOGLE_BOOKS_API_KEY)  # Add your API key in config
+parser = GoogleBooksParser(api_key=Config.GOOGLE_BOOKS_API_KEY)
 
 
 @google_books_bp.route('/search/google', methods=['GET'])
 @async_route
 async def search_google():
-    return await _search_google(language='en')
-
-
-@google_books_bp.route('/search/google/ru', methods=['GET'])
-@async_route
-async def search_google_ru():
-    return await _search_google(language='ru')
-
+    lang = request.args.get('lang', 'en').lower()
+    if lang not in ('en', 'ru'):
+        lang = 'en'
+    return await _search_google(language=lang)
 
 async def _search_google(language: str):
     start_time = datetime.now()
