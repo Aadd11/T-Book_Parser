@@ -1,0 +1,3066 @@
+{
+  "metadata": {
+    "query": {
+      "author": "Stephen King",
+      "title": null,
+      "max_results": 200,
+      "batch_size": 40
+    },
+    "stats": {
+      "total_books": 200,
+      "timestamp": "2025-04-26T20:58:41.047376",
+      "execution_time_seconds": 5.4684977531433105
+    }
+  },
+  "books": [
+    {
+      "title": "The Stand",
+      "publication_year": 2008,
+      "genre": "Fiction",
+      "summary": "#1 BESTSELLER • NOW A PARAMOUNT+ LIMITED SERIES • Stephen King’s apocalyptic vision of a world blasted by plague and tangled in an elemental struggle between good and evil remains as riveting—and eerily plausible—as when it was first published. One of The Atlantic’s Great American Novels of the Past 100 Years! This edition includes all of the new and restored material first published in The Stand: The Complete and Uncut Edition. A patient escapes from a biological testing facility, unknowingly carrying a deadly weapon: a mutated strain of super-flu that will wipe out 99 percent of the world’s population within a few weeks. Those who remain are scared, bewildered, and in need of a leader. Two emerge—Mother Abagail, the benevolent 108-year-old woman who urges them to build a peaceful community in Boulder, Colorado; and Randall Flagg, the nefarious “Dark Man,” who delights in chaos and violence. As the dark man and the peaceful woman gather power, the survivors will have to choose between them—and ultimately decide the fate of all humanity. \"A master storyteller.\"—Los Angeles Times",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Anchor",
+      "page_count": 1408,
+      "language": "en",
+      "isbn": "9780385528856",
+      "google_books_id": "UbfnTcmkaKkC",
+      "thumbnail": "http://books.google.com/books/content?id=UbfnTcmkaKkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "It",
+      "publication_year": 2016,
+      "genre": "Fiction",
+      "summary": "In 1985, six men and one woman are called back together to search for a creature of unspeakable evil that had stalked them as children.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 1168,
+      "language": "en",
+      "isbn": "9781501142970",
+      "google_books_id": "S85NCwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=S85NCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Book's Stephen King Collection",
+      "publication_year": null,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "AMhtrgEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King 5 3",
+      "publication_year": 1989,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Signet",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451923006",
+      "google_books_id": "_WcTAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Goes to the Movies",
+      "publication_year": 2009,
+      "genre": "Fiction",
+      "summary": "It came from the mind of Stephen King... You've seen the films, now read the original stories - and get a unique insight into Stephen King's take on the productions. For Stephen King, the experience of seeing his works of short fiction adapted for major Hollywood films has created its own tales, and he shares them here: five of his celebrated short stories, plus King's personal commentary, his all-new introductions, and essential, behind-the-scenes revelations. Read on to discover the truth behind: The Shawshank Redemption (based on the novella Rita Hayworth and Shawshank Redemption), 1408, Children of the Corn, The Mangler, Hearts in Atlantis (based on Low Men in Yellow Coats).",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Hachette UK",
+      "page_count": 447,
+      "language": "en",
+      "isbn": "9781848942875",
+      "google_books_id": "-zc185Z943IC",
+      "thumbnail": "http://books.google.com/books/content?id=-zc185Z943IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King 6 3",
+      "publication_year": 1989,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "ZZjaAQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Jessie",
+      "publication_year": 1996,
+      "genre": "Horror tales",
+      "summary": "Les poignets enchaînés aux montants du lit par des menottes, Jessie vit un cauchemar. Gisant sur le plancher, les yeux révulsés, Gerald, son mari, est mort, victime de sa libido et du coup de pied qu'elle lui a donné dans un moment de dégoût. Comble de l'horreur, un chien errant s'est introduit dans la chambre, un clebs affamé prêt à planter ses crocs dans la joue de Gerald ! Si personne ne vient la libérer - et qui viendrait ? sa villa du lac Kashwakamac est totalement isolée -, Jessie ne tardera pas à mourir à son tour. Torturée par la soif, les muscles tétanisés. Avec, en prime, ces voix OVNI dans la tête, qui lui jettent son passé à la figure. De la douleur à la folie il n'y a qu'un pas. Et lorsqu'elle voit dans l'ombre ce visiteur du soir à la mallette en peau humaine, elle sent le monde basculer...",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "J'ai Lu",
+      "page_count": 441,
+      "language": "fr",
+      "isbn": "2277240273",
+      "google_books_id": "yqo3AQAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=yqo3AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Roadwork",
+      "publication_year": 2016,
+      "genre": "Fiction",
+      "summary": "Only Stephen King, writing as Richard Bachman, can imagine the horror of a good and angry man who fights back against bureaucracy when it threatens to destroy his vitality, home, and memories. “Under any name King mesmerizes the reader” (Chicago Sun-Times). Barton Dawes is standing in the way of progress when his unremarkable but comfortable existence suddenly takes a turn for the worst. A new highway extension is being built right over the laundry plant where he works—and right over his home. The house he has lived in for twenty years and where he created loving memories with his family. Dawes isn’t the sort of man who will take an insult of this magnitude lying down. His steadfast determination to fight the inevitable course of progress drives his wife and friends away while he tries to face down the uncaring bureaucracy that has destroyed his life. But before the city paves over that part of Dawes’s life, he’s got one more party to throw—and it’ll be a blast. What happens when one good (and angry) man fights back…and then some? This #1 national bestseller includes an introduction by Stephen King on “The Importance of Being Bachman.”",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 416,
+      "language": "en",
+      "isbn": "9781501141331",
+      "google_books_id": "ZM7qwdWP4dgC",
+      "thumbnail": "http://books.google.com/books/content?id=ZM7qwdWP4dgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Misery",
+      "publication_year": 2017,
+      "genre": "Fiction",
+      "summary": "The #1 New York Times bestseller about a famous novelist held hostage in a remote location by his \"number one fan.\" One of \"Stephen King's best...genuinely scary\" (USA TODAY). Paul Sheldon is a bestselling novelist who has finally met his number one fan. Her name is Annie Wilkes, and she is more than a rabid reader--she is Paul's nurse, tending his shattered body after an automobile accident. But she is also furious that the author has killed off her favorite character in his latest book. Annie becomes his captor, keeping him prisoner in her isolated house. Annie wants Paul to write a book that brings Misery back to life--just for her. She has a lot of ways to spur him on. One is a needle. Another is an axe. And if they don't work, she can get really nasty. \"Terrifying\" (San Francisco Chronicle), \"dazzlingly well-written\" (The Indianapolis Star), and \"truly gripping\" (Publishers Weekly), Misery is \"classic Stephen King...full of twists and turns and mounting suspense\" (The Boston Globe).",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 432,
+      "language": "en",
+      "isbn": "9781501156748",
+      "google_books_id": "t-ArDgAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=t-ArDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King Mix 60",
+      "publication_year": 1989,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451922719",
+      "google_books_id": "hCzsAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Feast of Fear",
+      "publication_year": 1992,
+      "genre": "Biography & Autobiography",
+      "summary": "Briefly describes King's life and career, and gathers interviews with King about his books and his approach to writing",
+      "authors": [
+        "Stephen King",
+        "Tim Underwood",
+        "Chuck Miller"
+      ],
+      "publisher": "Carroll & Graf Pub",
+      "page_count": 282,
+      "language": "en",
+      "isbn": "0881848115",
+      "google_books_id": "eUNvQgAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=eUNvQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King Mix 16",
+      "publication_year": 1991,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451925246",
+      "google_books_id": "zznmAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Dark 22",
+      "publication_year": 1990,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451924355",
+      "google_books_id": "j6WDAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King #01-4 Vol. (Boxed)",
+      "publication_year": 1987,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451921151",
+      "google_books_id": "IC1UNwAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King #1-4 Vol. (Boxed)",
+      "publication_year": 1986,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451919955",
+      "google_books_id": "6vC6AAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King 56",
+      "publication_year": 1994,
+      "genre": "Overland Telegraph Line (N.T. and S.A.)",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451929012",
+      "google_books_id": "PR15tAEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Bag of Bones",
+      "publication_year": 1999,
+      "genre": "Fiction",
+      "summary": "A haunted love story.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 752,
+      "language": "en",
+      "isbn": "9780671024239",
+      "google_books_id": "cnKmAwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=cnKmAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "On Writing",
+      "publication_year": 2000,
+      "genre": "Language Arts & Disciplines",
+      "summary": "CELEBRATING 50 YEARS OF WRITING with fresh testimonials from fellow writers about why they love Stephen King and On Writing—and a few new words on the joy of writing from King himself. *ONE OF TIME MAGAZINE’S TOP 100 NONFICTION BOOKS OF ALL TIME* Immensely helpful and illuminating to any aspiring writer, this special edition of Stephen King’s critically lauded, million-copy bestseller shares the experiences, habits, and convictions that have shaped him and his work. “Long live the King” hailed Entertainment Weekly upon publication of Stephen King’s On Writing. Part memoir, part master class by one of the bestselling authors of all time, this superb volume is a revealing and practical view of the writer’s craft, comprising the basic tools of the trade every writer must have. King’s advice is grounded in his vivid memories from childhood through his emergence as a writer, from his struggling early career to his widely reported, near-fatal accident in 1999—and how the inextricable link between writing and living spurred his recovery. Brilliantly structured, friendly and inspiring, On Writing will empower and entertain everyone who reads it—fans, writers, and anyone who loves a great story well told.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 320,
+      "language": "en",
+      "isbn": "9780743211536",
+      "google_books_id": "MvyTqyff_V4C",
+      "thumbnail": "http://books.google.com/books/content?id=MvyTqyff_V4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Danse Macabre",
+      "publication_year": 1983,
+      "genre": "Art",
+      "summary": "Tour of the whole horror genre in books, film, radio, and TV by the most popluar writer in the genre today.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Berkley",
+      "page_count": 468,
+      "language": "en",
+      "isbn": "042506462X",
+      "google_books_id": "r1GdwExC2iQC",
+      "thumbnail": "http://books.google.com/books/content?id=r1GdwExC2iQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Ночные кошмары и фантастические видения",
+      "publication_year": 2016,
+      "genre": "Horror tales, American",
+      "summary": null,
+      "authors": [
+        "Стивен Кинг"
+      ],
+      "publisher": null,
+      "page_count": 829,
+      "language": "ru",
+      "isbn": "5170917597",
+      "google_books_id": "26xanQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "It",
+      "publication_year": 2007,
+      "genre": "Fiction",
+      "summary": "Now with a stunning new cover look, King's classic No. 1 bestseller and the basis for the massively successful films It: Chapter One and It: Chapter Two as well as the inspiration for HBO Max's upcoming Welcome to Derry. We all float down here. Derry, Maine is just an ordinary town: familiar, well-ordered for the most part, a good place to live. It is a group of children who see - and feel - what makes Derry so horribly different. In the storm drains, in the sewers, IT lurks, taking on the shape of every nightmare, each one's deepest dread. Sometimes IT appears as an evil clown named Pennywise and sometimes IT reaches up, seizing, tearing, killing . . . Time passes and the children grow up, move away and forget. Until they are called back, once more to confront IT as IT stirs and coils in the sullen depths of their memories, emerging again to make their past nightmares a terrible present reality.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Hachette UK",
+      "page_count": 1492,
+      "language": "en",
+      "isbn": "9781848940871",
+      "google_books_id": "W1X51dmarEUC",
+      "thumbnail": "http://books.google.com/books/content?id=W1X51dmarEUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King #2-3 Vol. (Boxed)",
+      "publication_year": 1986,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451918290",
+      "google_books_id": "gcG6NwAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Bklst36",
+      "publication_year": 1991,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451925963",
+      "google_books_id": "kQ8TAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King MXD 56",
+      "publication_year": 1994,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451928830",
+      "google_books_id": "9_pCAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King, No 9",
+      "publication_year": 1991,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451926102",
+      "google_books_id": "5DnMPQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King's Danse Macabre",
+      "publication_year": 1983,
+      "genre": "Fiction",
+      "summary": "Information on the horror phenomenon including books, movies, radio, and T.V.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Berkley",
+      "page_count": 468,
+      "language": "en",
+      "isbn": "0425104338",
+      "google_books_id": "oPYGelk-5GYC",
+      "thumbnail": "http://books.google.com/books/content?id=oPYGelk-5GYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "The Shining",
+      "publication_year": 2002,
+      "genre": "Fiction",
+      "summary": "This inspiring and compelling book has won ten awards to date, including Honorable Mentions at the December 2012 New England and London Book Festivals, October 2012 Southern California Book Festival and June 2012 New York Book Festival in the category of Spiritual books; is winner of the North American Bookdealers ́ Exchange (NABE) Pinnacle Award for “Inspirational” books in Spring 2011; and has become a much sought-after reference for people seeking to affect positive change around the globe. Readers are: * taught how to recognize, harness and channel positive personal power for the betterment of themselves, their loved ones, associates and our universe * provided an invaluable checklist of great leadership behaviors and attitudes * taught how to recognize controlling behaviors of others and the negative patterns in society * inspired to be the best they can be * compelled to ask themselves \"why am I here; what good can I do for humanity?\" * taught how to recognize a self-limiting posture so they can improve their level of self-awareness......to the point of real self-intelligence and, by so doing, break free of life’s boxes, labels and restrictions * encouraged to erase their fears, trust their abilities and remove their baggage........and take the journey to empowerment and fulfilment in everything they do!",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 530,
+      "language": "en",
+      "isbn": "9780743437493",
+      "google_books_id": "vUZoxITGufkC",
+      "thumbnail": "http://books.google.com/books/content?id=vUZoxITGufkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King #03-2 Vols. (Boxed)",
+      "publication_year": 1985,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451918304",
+      "google_books_id": "dQ1fAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King #3-3 Vol. (Boxed)",
+      "publication_year": 1986,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451919963",
+      "google_books_id": "B6iBNwAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Misery",
+      "publication_year": 1988,
+      "genre": "Fiction",
+      "summary": "Using a needle, an ax, or something worse, Annie encourages Paul to write his best novel -- just for her.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Berkley",
+      "page_count": 356,
+      "language": "en",
+      "isbn": "0451169522",
+      "google_books_id": "0ovrrHwi2JMC",
+      "thumbnail": "http://books.google.com/books/content?id=0ovrrHwi2JMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King #04-3 Vols. (Boxed)",
+      "publication_year": 1984,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451916468",
+      "google_books_id": "4_t2AAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Carrie",
+      "publication_year": 2008,
+      "genre": "Fiction",
+      "summary": "#1 NEW YORK TIMES BESTSELLER • 50TH ANNIVERSARY EDITION WITH A NEW INTRODUCTION BY MARGARET ATWOOD • Stephen King's legendary debut, the bestselling smash hit that put him on the map as one of America's favorite writers • In a world where bullies rule, one girl holds a secret power. Unpopular and tormented, Carrie White's life takes a terrifying turn when her hidden abilities become a weapon of horror. \"Stephen King’s first novel changed the trajectory of horror fiction forever. Fifty years later, authors say it’s still challenging and guiding the genre.\" —Esquire “A master storyteller.” —The Los Angeles Times • “Guaranteed to chill you.” —The New York Times • \"Gory and horrifying. . . . You can't put it down.\" —Chicago Tribune Unpopular at school and subjected to her mother's religious fanaticism at home, Carrie White does not have it easy. But while she may be picked on by her classmates, she has a gift she's kept secret since she was a little girl: she can move things with her mind. Doors lock. Candles fall. Her ability has been both a power and a problem. And when she finds herself the recipient of a sudden act of kindness, Carrie feels like she's finally been given a chance to be normal. She hopes that the nightmare of her classmates' vicious taunts is over . . . but an unexpected and cruel prank turns her gift into a weapon of horror so destructive that the town may never recover.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Vintage",
+      "page_count": 166,
+      "language": "en",
+      "isbn": "9780385528832",
+      "google_books_id": "FNxGvn1SCVMC",
+      "thumbnail": "http://books.google.com/books/content?id=FNxGvn1SCVMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King #11 3cp",
+      "publication_year": 1996,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Signet Book",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "0451934075",
+      "google_books_id": "dYx4PQAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=dYx4PQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King 5",
+      "publication_year": 1990,
+      "genre": "Fiction",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451924126",
+      "google_books_id": "DUTIAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King, American Master",
+      "publication_year": 2018,
+      "genre": "Literary Criticism",
+      "summary": "Fascinating facts, trivia, and little-known details about the Master of the Macabre’s life from the “world’s leading authority on Stephen King” (Entertainment Weekly). New York Times–bestselling author Stephen Spignesi has compiled interviews, essays, and loads of facts and details about all of Stephen King’s work into this fun and informative compendium for the author’s many fans, from the casual to the fanatical! Did you know. . . ? In his early teens, Stephen King sold typed copies of his short stories at school. King originally thought his novel Pet Sematary was too frightening to publish. King’s legendary Dark Tower series took him more than 30 years to write. Thinner was the novel that revealed his “Richard Bachman” pseudonym to the world. King wrote The Eyes of the Dragon for his daughter Naomi. He has never liked Stanley Kubrick’s film version of his novel The Shining. It took him four years to write what some consider his magnum opus, IT. The 2017 film version of IT has grossed more than $700 million worldwide. In addition to novels, King has written essays, plays, screenplays, and even poetry.",
+      "authors": [
+        "Stephen Spignesi"
+      ],
+      "publisher": "Permuted Press+ORM",
+      "page_count": 403,
+      "language": "en",
+      "isbn": "9781682616079",
+      "google_books_id": "uMhyDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=uMhyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "The Complete Stephen King Encyclopedia",
+      "publication_year": 1991,
+      "genre": "Literary Criticism",
+      "summary": "Now fans, researchers, and collectors can have easy access to all things King with this definitive sourcebook. This one-of-a-kind encyclopedia, now in paperback, features an exhaustive 18,000-entry concordance covering the people, places, and things mentioned in King's novels and stories, as well as helpful reference guides, sidebars, and never-before-available information. 50 photographs. 20 line drawings.",
+      "authors": [
+        "Stephen J. Spignesi"
+      ],
+      "publisher": "McGraw-Hill/Contemporary",
+      "page_count": 804,
+      "language": "en",
+      "isbn": "0809238187",
+      "google_books_id": "QM-TDlYLEsIC",
+      "thumbnail": "http://books.google.com/books/content?id=QM-TDlYLEsIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King Omnibus",
+      "publication_year": 2001,
+      "genre": "Horror tales, American",
+      "summary": "Different Seasons comprises four spine-chilling stories by a master of the supernatural: Rita Hayworth and the Shawshank Redemption, The Body, The Breathing Method and Apt Pupil. Skeleton Crew is made up of a bumper 23 tales.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 1168,
+      "language": "en",
+      "isbn": "0316858900",
+      "google_books_id": "aibTHAAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=aibTHAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King Three Classic Novels Box Set",
+      "publication_year": 2019,
+      "genre": "Fiction",
+      "summary": "An ebook box set of Stephen King's early works, including three #1 bestsellers: Carrie, 'Salem's Lot, and The Shining. \"A master storyteller.\" —The Los Angeles Times In Carrie, a teenage girl is tormented and teased to the breaking point by her more popular schoolmates. But Carrie has a gift and she uses this gift to inflict a terrifying revenge. In 'Salem's Lot, Ben Mears has returned to Jerusalem's Lot, an old mansion, long the subject of town lore, to work on his new book. But when two young boys venture into the woods and only one comes out alive, Mears begins to realize that there is something evil growing within the borders of this small New England town. In The Shining, Jack Torrance's new job as the off-season caretaker at the Overlook Hotel is the perfect chance for a fresh start. But as the harsh winter weather sets in, the idyllic location feels ever more remote . . . and more sinister. And the only one to notice the strange and terrible forces gathering around the Overlook is Danny Torrance, a uniquely gifted five-year-old.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Anchor",
+      "page_count": 1522,
+      "language": "en",
+      "isbn": "9780593082225",
+      "google_books_id": "bCaxDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=bCaxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King",
+      "publication_year": 1995,
+      "genre": "Fiction",
+      "summary": "Titles include \"Four Past Midnight\" and \"Needful Things\".",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451931440",
+      "google_books_id": "pFkHAAAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=pFkHAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King",
+      "publication_year": 1986,
+      "genre": "Fiction",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 992,
+      "language": "en",
+      "isbn": "1555800130",
+      "google_books_id": "ANC7OQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King 10/Boxed",
+      "publication_year": 1993,
+      "genre": "Fiction",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451927966",
+      "google_books_id": "KcOaPQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King 3",
+      "publication_year": 1988,
+      "genre": "Fiction",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451921925",
+      "google_books_id": "k63XAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Holl 45",
+      "publication_year": 1992,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451926013",
+      "google_books_id": "qBh3AAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King",
+      "publication_year": 1995,
+      "genre": "Fiction",
+      "summary": "Titles include \"Pet Sematary, Carrie\" and \"Night Shift\".",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451931351",
+      "google_books_id": "iP4KAAAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=iP4KAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Baghman Books",
+      "publication_year": null,
+      "genre": "Horror tales",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "LZLNXwAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King 2",
+      "publication_year": 1990,
+      "genre": "Fiction",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451925025",
+      "google_books_id": "b1agAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Asst 55",
+      "publication_year": 1993,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451928849",
+      "google_books_id": "_2lgAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Elevation",
+      "publication_year": 2018,
+      "genre": "Fiction",
+      "summary": "From legendary master storyteller Stephen King, a riveting story about “an ordinary man in an extraordinary condition rising above hatred” (The Washington Post) and bringing the fictional town of Castle Rock, Maine together—a “joyful, uplifting” (Entertainment Weekly) tale about finding common ground despite deep-rooted differences, “the sign of a master elevating his own legendary game yet again” (USA TODAY). Although Scott Carey doesn’t look any different, he’s been steadily losing weight. There are a couple of other odd things, too. He weighs the same in his clothes and out of them, no matter how heavy they are. Scott doesn’t want to be poked and prodded. He mostly just wants someone else to know, and he trusts Doctor Bob Ellis. In the small town of Castle Rock, the setting of many of King’s most iconic stories, Scott is engaged in a low grade—but escalating—battle with the lesbians next door whose dog regularly drops his business on Scott’s lawn. One of the women is friendly; the other, cold as ice. Both are trying to launch a new restaurant, but the people of Castle Rock want no part of a gay married couple, and the place is in trouble. When Scott finally understands the prejudices they face—including his own—he tries to help. Unlikely alliances, the annual foot race, and the mystery of Scott’s affliction bring out the best in people who have indulged the worst in themselves and others. “Written in masterly Stephen King’s signature translucent…this uncharacteristically glimmering fairy tale calls unabashedly for us to rise above our differences” (Booklist, starred review). Elevation is an antidote to our divisive culture, an “elegant whisper of a story” (Kirkus Reviews, starred review), “perfect for any fan of small towns, magic, and the joys and challenges of doing the right thing” (Publishers Weekly, starred review).",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 160,
+      "language": "en",
+      "isbn": "9781982102333",
+      "google_books_id": "38VWDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=38VWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Thinner",
+      "publication_year": 2016,
+      "genre": "Fiction",
+      "summary": "A fatal accident leads to a gypsy curse. When the scales told Billy Halleck he was losing weight, it was what the doctor ordered. His wife was pleased - as she should have been. But... 'Thinner' - an old man's curse, had lodged in his mind like a fattening worm, eating at his flesh, at his reason. And with his despair, came violence.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 432,
+      "language": "en",
+      "isbn": "9781501143762",
+      "google_books_id": "FFMADAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=FFMADAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King Two Book Pack",
+      "publication_year": 2003,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0340953721",
+      "google_books_id": "VjyxoQEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Ams 56",
+      "publication_year": 1994,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451930126",
+      "google_books_id": "P9WMAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Box Set",
+      "publication_year": 2015,
+      "genre": "Fiction",
+      "summary": "This box set features three bestselling works from internationally famous horror author, Stephen King. The undisputed King of Horror delivers in these three spine-tingling books that are sure to keep you up at night. Lisey’s Story is the story of a writer’s widow who must confront his demons after his death. Two years ago, Lisey Debusher Landon lost her husband, Scott, an award-winning, bestselling novelist and a very complicated man. Lisey knew there was a place Scott went—a place that both terrified and healed him, that could eat him alive or give him the ideas he needed in order to live. Now it’s Lisey’s turn to face Scott’s demons, Lisey’s turn to go to Boo’ya Moon. What begins as a widow’s effort to sort through the papers of her celebrated husband becomes a nearly fatal journey into the darkness he inhabited. Perhaps King’s most personal and powerful novel, Lisey’s Story is about the wellsprings of creativity, the temptations of madness, and the secret language of love. Featuring fourteen horrific short stories, Everything’s Eventual is King in terrifying top form with stories that will keep you awake until daybreak. King takes readers down a road less traveled (for good reason) in the blockbuster ebook “Riding the Bullet.” Bad table service turns bloody when you stop in for “Lunch at the Gotham Café,” and terror becomes déjà vu all over again when you get “That Feeling, You Can Only Say What It Is in French.” Enter a nightmarish mindscape of unrelenting horror and shocking revelations that could only come from the imagination of the greatest storyteller of our time. Buckle your seatbelts for Mr. Mercedes. In the frigid pre-dawn hours, in a distressed Midwestern city, desperate unemployed folks are lined up for a spot at a job fair. Without warning, a lone driver plows through the crowd in a stolen Mercedes, running over the innocent, backing up, and charging again. Eight people are killed; fifteen are wounded. The killer escapes. In this high-suspense race against time, three of the most unlikely heroes Stephen King has ever created try to stop a lone killer from blowing up thousands. Mr. Mercedes is a war between good and evil, from the master of suspense whose insight into the mind of this obsessed, insane killer is chilling and unforgettable.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Pocket Books",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1501129805",
+      "google_books_id": "jxcFswEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=jxcFswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King",
+      "publication_year": 1995,
+      "genre": "Fiction",
+      "summary": "Titles include \"Different Seasons, Skeleton Crew\" and \"Nightmares & Dreamscapes\".",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451931386",
+      "google_books_id": "t7QJAAAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=t7QJAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen Kings Collection",
+      "publication_year": 1991,
+      "genre": "Fiction",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0452267331",
+      "google_books_id": "maUHPQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King's The Dark Tower: The Drawing of the Three Omnibus",
+      "publication_year": 2023,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Collects Stephen King's Dark Tower series in graphic novel format.",
+      "authors": [
+        "Stephen King",
+        "Peter David",
+        "Robin Furth"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 464,
+      "language": "en",
+      "isbn": "9781668021231",
+      "google_books_id": "tRLfEAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=tRLfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King",
+      "publication_year": 1995,
+      "genre": "Fiction",
+      "summary": "Titles include\" The Dark Tower I: The Gunslinger, The Dark Tower II: The Drawing Of The Three\" and \"The Dark Tower III: The Waste Lands\".",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451931424",
+      "google_books_id": "9eZIPQAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=9eZIPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King 3",
+      "publication_year": 1992,
+      "genre": "Fiction",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451925033",
+      "google_books_id": "F4BUAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Stephen King Companion",
+      "publication_year": 1989,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "George Beahm"
+      ],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "aRJy0AEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Collection [Binge Reads]",
+      "publication_year": 1974,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "2Wc_0QEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King",
+      "publication_year": 2012,
+      "genre": "Literary Criticism",
+      "summary": "There are a multitude of interesting updates in the revised edition of the classic book about King's hidden work. Included in the new information is a series of newly discovered unpublished works, with King's exclusive and definitive statements about how they originated and why they never saw the light of day.",
+      "authors": [
+        "Rocky Wood",
+        "Stephen King"
+      ],
+      "publisher": "BIBLIO",
+      "page_count": 396,
+      "language": "en",
+      "isbn": "1892950596",
+      "google_books_id": "E9mAtwAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=E9mAtwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "The Eyes of the Dragon",
+      "publication_year": 1987,
+      "genre": "Fiction",
+      "summary": "A kingdom is in turmoil as the old king dies and his successor must do battle for the throne. Pitted against an evil wizard and a would-be rival, Prince Peter makes a daring escape and rallies the forces of Good to fight for what is rightfully his.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Viking Adult",
+      "page_count": 344,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "KKcOAQAAMAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=KKcOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King Targ 35",
+      "publication_year": 1992,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451926498",
+      "google_books_id": "-n87AAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Blood Rituals",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "Three more short stories from the Stephen King \"Crossroads\" series that will help keep you entertained late into the night. Discover the bright imagination, suspense, thrilling drama, picturesque visions, and the third look into the true meaning of the \"Crossroads\" series message.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Createspace Independent Publishing Platform",
+      "page_count": 72,
+      "language": "en",
+      "isbn": "1523971754",
+      "google_books_id": "dQ1kjwEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=dQ1kjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King",
+      "publication_year": 1995,
+      "genre": "Fiction",
+      "summary": "Titles include \"It, The Eyes Of The Dragon\" and \"Misery\".",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451931408",
+      "google_books_id": "Ap4CAAAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=Ap4CAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King 5",
+      "publication_year": 1992,
+      "genre": "Fiction",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0160813786",
+      "google_books_id": "lF3aAQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Endc 54",
+      "publication_year": 1992,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451927125",
+      "google_books_id": "l_a-AAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Collectors Editions",
+      "publication_year": 1992,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Plume",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0452153441",
+      "google_books_id": "M3MWPQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King's Battleground",
+      "publication_year": 2012,
+      "genre": null,
+      "summary": "King's short story is presented along with the filmmakers and artists involved in the adaptation of Battleground. Includes interviews, photographs, and story boards.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Gauntlet Press",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1934267309",
+      "google_books_id": "VhPwpwAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=VhPwpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King Omnibus 2",
+      "publication_year": 2000,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "4444403438",
+      "google_books_id": "ccItPQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Omnibus",
+      "publication_year": 1997,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Orbit Books",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0316911038",
+      "google_books_id": "TumyoQEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Binge Reading Collection",
+      "publication_year": 2016,
+      "genre": "Electronic book readers",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1509415556",
+      "google_books_id": "iNxTAQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Anthology",
+      "publication_year": 1998,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New English Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0340744669",
+      "google_books_id": "dVySHAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King [ Three Novels]",
+      "publication_year": 2012,
+      "genre": "Horror tales",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 1096,
+      "language": "en",
+      "isbn": "0307292053",
+      "google_books_id": "jujJngEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The King Papers",
+      "publication_year": 1988,
+      "genre": "Advertising executives",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 62,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "x5VmuwEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King's The Dark Tower: Beginnings Omnibus",
+      "publication_year": 2023,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Enter once more the world of Roland Deschain—and the world of the Dark Tower...now presented in a stunning graphic novel omnibus form that will unlock the doorways to terrifying secrets and bold storytelling as part of the dark fantasy masterwork and magnum opus from #1 New York Times bestselling author Stephen King. “The man in black fled across the desert, and the gunslinger followed.” With these unforgettable words, millions were introduced to Stephen King’s iconic character Roland Deschain of Gilead. Roland is the last of his kind, a “gunslinger” charged with protecting whatever goodness and light remains in his world—a world that “moved on,” as they say. In this desolate reality—a dangerous land filled with ancient technology and deadly magic, and yet one that mirrors our own in frightening ways—Roland is on a spellbinding and soul-shattering quest to locate and somehow save the mystical nexus of all worlds, all universes: the Dark Tower. Now, in the graphic novel series Stephen King’s The Dark Tower: Beginnings, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland's troubled past and coming-of-age is revealed. Sumptuously drawn by Jae Lee and Richard Isanove, plotted by longtime Stephen King expert Robin Furth, and scripted by New York Times bestselling author Peter David, Beginnings is an extraordinary and terrifying journey into Roland’s origins—ultimately serving as the perfect introduction for new readers to Stephen King’s modern literary classic The Dark Tower, while giving longtime fans thrilling adventures merely hinted at in his blockbuster novels. This single-volume omnibus edition includes the complete graphic novel series Beginnings: The Gunslinger Born; The Long Road Home; Treachery; The Fall of Gilead; The Battle of Jericho Hill.",
+      "authors": [
+        "Stephen King",
+        "Peter David",
+        "Robin Furth"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 800,
+      "language": "en",
+      "isbn": "9781668021132",
+      "google_books_id": "PaTTEAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=PaTTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "THE STAND : STEPHEN KING NEW COVER SERIES No. 5",
+      "publication_year": 2015,
+      "genre": null,
+      "summary": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for THE STAND! This is No. 5 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring THE STAND original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits THE STAND Scribner hard cover edition by Stephen King. This purchase includes: Original 2015 book cover painting of THE STAND by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. Scott Ian, of the band ANTHRAX, wrote the text for this dust jacket. This purchase is only for this original dust jacket and does not feature a copy of the book. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+      "authors": [
+        "Stephen King",
+        "Scott Ian"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "162330069X",
+      "google_books_id": "qYEojgEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Gunslinger",
+      "publication_year": 2003,
+      "genre": "Fiction",
+      "summary": "Roland, the world's last gunslinger, tracks an enigmatic Man in Black toward a forbidding dark tower, fighting forces both mortal and other-worldly on his quest",
+      "authors": [],
+      "publisher": "Penguin",
+      "page_count": 340,
+      "language": "en",
+      "isbn": "0451210840",
+      "google_books_id": "X7ZJaea0P7cC",
+      "thumbnail": "http://books.google.com/books/content?id=X7ZJaea0P7cC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Later",
+      "publication_year": 2021,
+      "genre": "Fiction",
+      "summary": "“Part detective tale, part thriller…touching and genuine.” —The New York Times #1 bestselling author Stephen King returns with a brand-new novel about the secrets we keep buried and the cost of unearthing them. #1 NEW YORK TIMES BESTSELLER THE SUNDAY TIMES BESTSELLER SOMETIMES GROWING UP MEANS FACING YOUR DEMONS The son of a struggling single mother, Jamie Conklin just wants an ordinary childhood. But Jamie is no ordinary child. Born with an unnatural ability his mom urges him to keep secret, Jamie can see what no one else can see and learn what no one else can learn. But the cost of using this ability is higher than Jamie can imagine – as he discovers when an NYPD detective draws him into the pursuit of a killer who has threatened to strike from beyond the grave. LATER is Stephen King at his finest, a terrifying and touching story of innocence lost and the trials that test our sense of right and wrong. With echoes of King’s classic novel It, LATER is a powerful, haunting, unforgettable exploration of what it takes to stand up to evil in all the faces it wears.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Hard Case Crime",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1789096499",
+      "google_books_id": "BQSBzwEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Insomnia",
+      "publication_year": 2016,
+      "genre": "Fiction",
+      "summary": "In Derry, Maine, a small town polarized by a pro-life rally, two old men become possessed by supernatural forces engaged in a struggle between good and evil. By the author of Nightmares and Dreamscapes.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 800,
+      "language": "en",
+      "isbn": "9781501144226",
+      "google_books_id": "GoSMCwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=GoSMCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Кто нашел берет себе",
+      "publication_year": 2015,
+      "genre": "Authors",
+      "summary": null,
+      "authors": [],
+      "publisher": null,
+      "page_count": 444,
+      "language": "ru",
+      "isbn": "5170912366",
+      "google_books_id": "R1CkjwEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King",
+      "publication_year": 1995,
+      "genre": "Fiction",
+      "summary": "Titles include \"Dolores Claiborne\" and \"Insomnia\".",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451931467",
+      "google_books_id": "b8QDAAAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=b8QDAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King X30 D/B",
+      "publication_year": 1993,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Orbit Books",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0751597694",
+      "google_books_id": "RZjAoQEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Binge Reading Collection",
+      "publication_year": 2016,
+      "genre": "Electronic book readers",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1509415548",
+      "google_books_id": "8ZsrnQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King's The Dark Tower: The Gunslinger Omnibus",
+      "publication_year": 2023,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Collects Stephen King's Dark Tower series in graphic novel format.",
+      "authors": [
+        "Stephen King",
+        "Peter David",
+        "Robin Furth"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 736,
+      "language": "en",
+      "isbn": "9781668021217",
+      "google_books_id": "XGPZEAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=XGPZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "STEPHEN KING NEW COVER SERIES No. 13 IT",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for IT This is No. 13 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring IT original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits IT Viking hard cover edition by Stephen King. This purchase includes the complete, wrap-around Original book cover painting of IT by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300894",
+      "google_books_id": "RXwTvgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "STEPHEN KING NEW COVER SERIES No. 14 End of Watch",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for END OF WATCH This is No. 14 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring END OF WATCH original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits END OF WATCH Scribner hard cover edition by Stephen King. This purchase includes the complete, wrap-around Original book cover painting of END OF WATCH by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300908",
+      "google_books_id": "SJZevgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Omnibus 3",
+      "publication_year": 2001,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "4444407964",
+      "google_books_id": "bSOUPQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Creepshow",
+      "publication_year": 1992,
+      "genre": "Authors, American",
+      "summary": null,
+      "authors": [
+        "Stephen King",
+        "Berni Wrightson"
+      ],
+      "publisher": null,
+      "page_count": 62,
+      "language": "fi",
+      "isbn": "9516114717",
+      "google_books_id": "HnRKAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Four Past Midnight",
+      "publication_year": 1990,
+      "genre": "Fiction",
+      "summary": "Jet passengers are stuck in a time-slip, a psychopath accuses a writer of plagiarism, a man with an overdue book encounters a demonic librarian, and a boy's camera snaps photos of a huge and nasty dog in these four horror novellas. Repackaged. Reissue.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 792,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "y6cOAQAAMAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=y6cOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King `a?' X36 D/B",
+      "publication_year": 1992,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Orbit Books",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0751599778",
+      "google_books_id": "loTcoQEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Complete Hard Case Crime Stephen King Collection",
+      "publication_year": 2021,
+      "genre": "Fiction",
+      "summary": "The Complete Hard Case Crime Stephen King Collection, featuring the bestselling titles The Colorado Kid, Joyland, and his newest novel, Later, plus exclusive art cards. Collecting Stephen King's three homages to the classic crime pulp paperbacks, published by Hard Case Crime. This includes The Colorado Kid (2005), Joyland (2013) and Later (2021). It will also feature three exclusive art cards with alternate cover artwork for the three novels. Set in a small-town North Carolina amusement park in 1973, Joyland tells the story of the summer in which college student Devin Jones comes to work in a fairground and confronts the legacy of a vicious murder, the fate of a dying child, and the ways both will change his life forever. A rookie newspaperwoman learns the true meaning of mystery when she investigates a 25-year-old unsolved and very strange case involving a dead man found on an island off the coast of Maine. The son of a struggling single mother, Jamie Conklin just wants an ordinary childhood. But Jamie is no ordinary child. Born with an unnatural ability, Jamie can see things no one else can. But the cost of using this ability is higher than Jamie can imagine - as he discovers when an NYPD detective draws him into the pursuit of a killer who has threatened to strike from beyond the grave.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "National Geographic Books",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "9781789097566",
+      "google_books_id": "WAKREAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=WAKREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Under the Dome",
+      "publication_year": 2009,
+      "genre": "Fiction",
+      "summary": "On an entirely normal‚ beautiful fall day in Chester's Mill‚ Maine‚ the town is inexplicably and suddenly sealed off from the rest of the world by an invisible force field. Planes crash‚ a gardener's hand is severed‚ and people are divided from their families as \"the dome\" comes down. Dale Barbara‚ an Iraq vet working as a short-order cook‚ finds himself teamed with a few intrepid citizens against Big Jim Rennie‚ a politician grasping for the reins of power.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Gale Cengage",
+      "page_count": 1419,
+      "language": "en",
+      "isbn": "1410423964",
+      "google_books_id": "JQ4JQwAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=JQ4JQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King Untitled 1 Bds",
+      "publication_year": 1999,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0340608463",
+      "google_books_id": "03DkPQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Firestarter /by Stephen King",
+      "publication_year": 1981,
+      "genre": "Horror tales",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 401,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "gaFEzwEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Dark Tower: The Gunslinger",
+      "publication_year": 2012,
+      "genre": "Comics & Graphic Novels",
+      "summary": "The Barony of Gilead has fallen to the forces of the evil John Farson, as the Gunslingers are massacred at the Battle of Jericho Hill. But one Gunslinger rises from the ashes: Roland Deschain. As Deschain's limp body is tossed onto a funeral pyre ... he's not dead yet. Roland escapes; as the last of the Gunslingers, he sets out in search of the mysterious Dark Tower - the one place where he can set the events of his out-of-synch world right. Along the way, Roland will battle the Not-Men, the Slow Mutants and more as he trails the Man in Black, the sorcerer who holds the key to Roland's finding the Dark Tower. COLLECTING: DARK TOWER: THE GUNSLINGER 1-5",
+      "authors": [],
+      "publisher": "Marvel",
+      "page_count": 136,
+      "language": "en",
+      "isbn": "0785147101",
+      "google_books_id": "seqOtwAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=seqOtwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King Companion",
+      "publication_year": 1991,
+      "genre": null,
+      "summary": "This companion contains over 100 articles, interviews, profiles and synopses on Stephen King, his books, films, interviews, critics and unpublished work.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 540,
+      "language": "en",
+      "isbn": "0751506389",
+      "google_books_id": "FjMKHQAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=FjMKHQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "If It Bleeds",
+      "publication_year": 2020,
+      "genre": "Fiction",
+      "summary": "*#1 NEW YORK TIMES BESTSELLER* Featuring the novella “The Life of Chuck,” now a feature film adapted for the screen and directed by Mike Flanagan (The Fall of the House of Usher, Doctor Sleep) and starring Tom Hiddleston, Mark Hamill, Chiwetel Ejiofor, and Karen Gillan—a Toronto International Film Festival People’s Choice Award winner! From the legendary storyteller and master of short fiction Stephen King comes an extraordinary collection of four new “exceptionally compelling novellas that reaffirm [King’s] mastery of the form” (The Washington Post). Readers adore Stephen King’s novels, and his novellas are their own dark treat, briefer but just as impactful and enduring as his longer fiction. Many of his novellas have been made into iconic films, including “The Body” (Stand by Me) and “Rita Hayworth and Shawshank Redemption” (Shawshank Redemption). The four brilliant tales in If It Bleeds prove as iconic as their predecessors. In the title story, reader favorite Holly Gibney (from the Mr. Mercedes trilogy and The Outsider) must face her fears, and possibly another outsider—this time on her own. In “Mr. Harrigan’s Phone” an intergenerational friendship has a disturbing afterlife. “The Life of Chuck” explores, beautifully, how each of us contains multitudes. And in “Rat,” a struggling writer must contend with the darker side of ambition. If these novellas show King’s range, they also prove that certain themes endure. One of King’s great concerns is evil, and in If It Bleeds, there’s plenty of it. There is also evil’s opposite, which in King’s fiction often manifests as friendship. Holly is reminded that friendship is not only life-affirming but can be life-saving. Young Craig befriends Mr. Harrigan, and the sweetness of this late-in-life connection is its own reward. “An adroit vehicle to showcase the…nature of evil” (The Boston Globe), If It Bleeds is “exactly what I wanted to read right now,” says Ruth Franklin in The New York Times Book Review.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 480,
+      "language": "en",
+      "isbn": "9781982137991",
+      "google_books_id": "AWSzDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=AWSzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Bare Bones",
+      "publication_year": 1988,
+      "genre": "Literary Criticism",
+      "summary": "At last, the undisputed grandmaster of horror, Stephen King, talks candidly and revealingly about the perils and passions of the writer's life, and, most of all, about terror--as he lives it, as he creates it, as he evokes it in the souls of millions of fans who love nothing more than to be scared out of their wits. Book jacket.",
+      "authors": [
+        "Stephen King",
+        "Tim Underwood",
+        "Chuck Miller"
+      ],
+      "publisher": "McGraw-Hill Companies",
+      "page_count": 232,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "B-9aAAAAMAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=B-9aAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Biblioteca de Autor Stephen King",
+      "publication_year": 1992,
+      "genre": "American fiction",
+      "summary": null,
+      "authors": [
+        "Stephen King",
+        "Edith Zilli"
+      ],
+      "publisher": null,
+      "page_count": 704,
+      "language": "es",
+      "isbn": "8401498953",
+      "google_books_id": "6NecSgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "STEPHEN KING NEW COVER SERIES No. 7 Revival",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for REVIVAL This is No. 7 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring REVIVAL original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits REVIVAL Scribner hard cover edition by Stephen King. This purchase includes the complete, wrap-around Original book cover painting of REVIVAL by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300835",
+      "google_books_id": "3ClBvgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King",
+      "publication_year": 1995,
+      "genre": "Fiction",
+      "summary": "Titles include \"Firestarter, The Dead Zone\" and \"Salem's Lot\".",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451931394",
+      "google_books_id": "W5ukAAAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=W5ukAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Carrie",
+      "publication_year": 1974,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 245,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "PXhbtAEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Shining",
+      "publication_year": 2013,
+      "genre": null,
+      "summary": "This is the No. 1 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring THE SHINING. This is a dust jacket only. This commemorative original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed by the artist. This original dust jacket fits The Shining, the current Doubleday hard cover edition, by Stephen King. This purchase includes: Original 2013 book cover painting of The Overlook Hotel by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. Free acid-free book cover on your cover for complete protection. This purchase is only for this original dust jacket and does not feature a copy of the book.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300614",
+      "google_books_id": "UKYDogEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "UNDER THE DOME: STEPHEN KING NEW COVER SERIES",
+      "publication_year": 2014,
+      "genre": null,
+      "summary": "This is the No. 4 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring UNDER THE DOME This is a dust jacket only. This commemorative original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed by the artist. This original dust jacket fits UNDER THE DOME the Scribners hard cover edition, by Stephen King. This purchase includes: Original 2014 book cover painting by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. Free acid-free book cover on your cover for complete protection. This purchase is only for this original dust jacket and does not feature a copy of the book.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300649",
+      "google_books_id": "uyzDrQEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King's Thinner",
+      "publication_year": 2023,
+      "genre": null,
+      "summary": "Attorney Billy Halleck seriously enjoys living his life of upper-class excess. He's got it all; an expensive home in Connecticut, a loving family... and fifty extra pounds that his doctor repeatedly warns will be the death of him. Then, in a moment of carelessness, Halleck commits vehicular manslaughter when he strikes a jaywalking old woman crossing the street. But Halleck has some powerful local connections, and gets off with a slap on the wrist...much to the fury of the woman's mysterious and ancient father, who exacts revenge with a single uttered word... Thinner. Now a terrified Halleck finds the weight once so difficult to shed dropping effortlessly-and rapidly-day by day. Soon there will be nothing left of Billy Halleck...unless he can somehow locate the source of his living nightmare and reverse what's happened to him before he wastes away... ​​​​​​​Two terrifying versions of the original screenplay adapted by horror legend Tom Holland (Fright Night/Child's Play) and horror author legend Michael McDowell, based on the novel by Stephen King (as Richard Bachman).",
+      "authors": [
+        "Stephen king"
+      ],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": "195920582X",
+      "google_books_id": "5tCczwEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=5tCczwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Cell",
+      "publication_year": 2006,
+      "genre": "Fiction",
+      "summary": "'Civilization slipped into its second dark age on an unsurprising track of blood but with a speed that could not have been foreseen by even the most pessimistic futurist. By Halloween, every major city from New York to Moscow stank to the empty heavens and the world as it had been was a memory.' The event became known as The Pulse. The virus was carried by every cell phone operating within the entire world. Within ten hours, most people would be dead or insane. A young artist Clayton Riddell realises what is happening. And together with Tom McCourt and a teenage girl called Alice, he flees the devastation of explosive, burning Boston, desperate to reach his son before his son switches on his little red mobile phone...",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 436,
+      "language": "en",
+      "isbn": "0340921455",
+      "google_books_id": "fV4R-NoB09oC",
+      "thumbnail": "http://books.google.com/books/content?id=fV4R-NoB09oC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "STEPHEN KING NEW COVER SERIES No. 16 Firestarter",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for FIRESTARTER This is No. 16 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring FIRESTARTER original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits FIRESTARTER Scribner hard cover edition by Stephen King. This purchase includes the complete, wrap-around Original book cover painting of FIRESTARTER by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300916",
+      "google_books_id": "LRtYvgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Creepshows",
+      "publication_year": 2002,
+      "genre": "Performing Arts",
+      "summary": "The definitive illustrated guide to the more than 50 films, plays, and computer games adapted from the work of Stephen King. Lavishly illustrated with 200 rare posters, movie stills, and book covers, it includes excerpts from a one-on-one personal interview with King.",
+      "authors": [
+        "Stephen Jones"
+      ],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": "0823078841",
+      "google_books_id": "gD7qwAEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=gD7qwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King",
+      "publication_year": 1995,
+      "genre": "Fiction",
+      "summary": "Titles include \"The Stand, Complete And Uncut\" and \"The Dark Half\".",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451931432",
+      "google_books_id": "hEnAAAAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=hEnAAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Collected Stephen King & John Grisham(Penguin Readers Set 3)",
+      "publication_year": 2002,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King 외"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "ko",
+      "isbn": "8945090665",
+      "google_books_id": "NuM4MQAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=NuM4MQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King Is Richard Bachman",
+      "publication_year": 2011,
+      "genre": "Literary Criticism",
+      "summary": "Signed by Michael Collings in a short printing. This edition includes full-color covers from around the world featured on this limited editions endsheets (not featured in the trade edition). Stephen King is Richard Bachman by Michael R. Collings. This is the whole story of how Stephen Kings Richard Bachman came to life, and when King finally had to give up the ghost and come forth with the truth that he was writing under the pseudonym of Richard Bachman. This of course came about when the fifth novel, THINNER, was released and a reader discovered Kings pseudonym. Now Michael Collings takes us from the beginnings of this unusual fiction side-show of Stephen King s body of work, to what we thought would be the last Bachman release, THE REGULATORS. Updated and completely revised with new information and Richard Bachman releases since it s original publication almost twenty-five years ago. Chapters Featured: A History for Richard Bachman. Genre, Theme, and Image in Richard Bachman. RAGE. THE LONG WALK. ROADWORK. THE RUNNING MAN. THINNER. REGULATORS... and DESPERATION. Pipe-Dreams and Possibilities. Original cover art commisioned by Erik Wilson. Profusely illustrated with covers of Bachman books from around the world.",
+      "authors": [
+        "Michael R. Collings",
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 208,
+      "language": "en",
+      "isbn": "1892950936",
+      "google_books_id": "10dHPgAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=10dHPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "DOCTOR SLEEP: STEPHEN KING NEW COVER SERIES",
+      "publication_year": 2013,
+      "genre": null,
+      "summary": "This is the No. 2 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring DOCTOR SLEEP. This is a dust jacket only. This commemorative original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed by the artist. This original dust jacket fits DOCTOR SLEEP the Scribners hard cover edition, by Stephen King. This purchase includes: Original 2013 book cover painting of Winter Rose and the Ghost Train by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. Free acid-free book cover on your cover for complete protection. This purchase is only for this original dust jacket and does not feature a copy of the book.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300622",
+      "google_books_id": "sl7joQEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Desperation",
+      "publication_year": 1997,
+      "genre": "Adventure stories, American",
+      "summary": "There's something very wrong here, all right, and Entragian is only the surface of it. The secrets embedded in Desperation's landscape, and the evil that infects the town like some viral hot zone, are both awesome and terrifying. But as young David Carver seems to know - though it scares him nearly to death to realize it - so are the forces summoned to combat them.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": "0753155222",
+      "google_books_id": "BZAW0AEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "STEPHEN KING NEW COVER SERIES No. 10 Joyland Illustrated",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for JOYLAND ILLUSTRATED This is No. 10 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring JOYLAND ILLUSTRATED original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits JOYLAND ILLUSTRATED Hard Case Crime hard cover edition by Stephen King. This purchase includes the complete, wrap-around Original book cover painting of JOYLAND ILLUSTRATED by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "162330086X",
+      "google_books_id": "xIYavgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Night Shift",
+      "publication_year": 2011,
+      "genre": "Fiction",
+      "summary": "#1 BESTSELLER • A collection of bone-chilling, nail-biting tales from the undisputed master of horror that showcases the darkest depths of his brilliant imagination and will \"chill the cockles of many a heart\" (Chicago Tribune).• INCLUDES THE STORY “THE BOOGEYMAN” – NOW A MAJOR MOTION PICTURE FROM 20th CENTURY STUDIOS Originally published in 1978, Night Shift is the inspiration for over a dozen acclaimed horror movies and television series, including Children of the Corn, Chapelwaite, and Lawnmower Man. Night Shift is Stephen King's first collection of short stories--a perfect showcase of just how far King's dark imagination can go. Here we see mutated rats gone bad (\"Graveyard Shift\"); a cataclysmic virus that threatens humanity (\"Night Surf,\" the basis for The Stand); a possessed, evil lawnmower (\"The Lawnmower Man\"); unsettling children from the heartland (\"Children of the Corn\"); a smoker who will try anything to stop (\"Quitters, Inc.\"); a reclusive alcoholic who begins a gruesome transformation (\"Gray Matter\"); and many more. This is Stephen King at his horrifying best.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Anchor",
+      "page_count": 546,
+      "language": "en",
+      "isbn": "9780307743640",
+      "google_books_id": "K47JTah91MkC",
+      "thumbnail": "http://books.google.com/books/content?id=K47JTah91MkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King's Skeleton Crew",
+      "publication_year": 1985,
+      "genre": "Fantasy fiction, American",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 545,
+      "language": "en",
+      "isbn": "0910489122",
+      "google_books_id": "yRAjAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Wizard and Glass Stephen King",
+      "publication_year": 2014,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "162715289X",
+      "google_books_id": "pzfUrQEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=pzfUrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "1922",
+      "publication_year": 2021,
+      "genre": "Fiction",
+      "summary": "The chilling novella featured in Stephen King's bestselling collection Full Dark, No Stars, 1922 - about a man who succumbs to the violence within - is now available as a stand-alone publication. I believe there is a man inside every man, a stranger So writes Wilfred James in his confession. It's 1922. Wilfred owns eighty acres of farmland in Nebraska that have been in the family for generations. His wife, Arlette, owns an adjoining one hundred acres. But if Arlette carries out her threat to sell her land to a pig butcher, Wilfred will be forced to sell too. Worse, he'll have to move to the city. But he has a daring plan. It may work if he can persuade his son. A powerful tale of betrayal, murder, madness and rats, 1922 is a breathtaking exploration into the dark side of human nature from the great American storyteller Stephen King. It was adapted into a film from Netflix.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Hodder Paperbacks",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1529379350",
+      "google_books_id": "S_GCzgEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=S_GCzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "The Outsider",
+      "publication_year": 2020,
+      "genre": "Fiction",
+      "summary": "Now an HBO limited series starring Ben Mendelsohn!​ Evil has many faces…maybe even yours in this #1 New York Times bestseller from master storyteller Stephen King. An eleven-year-old boy’s violated corpse is discovered in a town park. Eyewitnesses and fingerprints point unmistakably to one of Flint City’s most popular citizens—Terry Maitland, Little League coach, English teacher, husband, and father of two girls. Detective Ralph Anderson, whose son Maitland once coached, orders a quick and very public arrest. Maitland has an alibi, but Anderson and the district attorney soon have DNA evidence to go with the fingerprints and witnesses. Their case seems ironclad. As the investigation expands and horrifying details begin to emerge, King’s story kicks into high gear, generating strong tension and almost unbearable suspense. Terry Maitland seems like a nice guy, but is he wearing another face? When the answer comes, it will shock you as only Stephen King can.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Pocket Books",
+      "page_count": 656,
+      "language": "en",
+      "isbn": "9781501180996",
+      "google_books_id": "V9ToDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=V9ToDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King's The Dark Tower: Beginnings",
+      "publication_year": 2018,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Enter once more the world of Roland Deschain—and the world of the Dark Tower...now presented in a stunning graphic novel form that will unlock the doorways to terrifying secrets and bold storytelling as part of the dark fantasy masterwork and magnum opus from #1 New York Times bestselling author Stephen King. “The man in black fled across the desert, and the gunslinger followed.” With these unforgettable words, millions of readers were introduced to Stephen King’s iconic character Roland Deschain of Gilead. Roland is the last of his kind, a “gunslinger” charged with protecting whatever goodness and light remains in his world—a world that “moved on,” as they say. In this desolate reality—a dangerous land filled with ancient technology and deadly magic, and yet one that mirrors our own in frightening ways—Roland is on a spellbinding and soul-shattering quest to locate and somehow save the mystical nexus of all worlds, all universes: the Dark Tower. Now, in the graphic novel series Stephen King’s The Dark Tower: Beginnings, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland's troubled past and coming-of-age is revealed. Sumptuously drawn by Jae Lee and Richard Isanove, plotted by longtime Stephen King expert Robin Furth, and scripted by New York Times bestselling author Peter David, Beginnings is an extraordinary and terrifying journey into Roland’s origins—ultimately serving as the perfect introduction for new readers to Stephen King’s modern literary classic The Dark Tower, while giving longtime fans thrilling adventures merely hinted at in his blockbuster novels. This boxed set includes the complete graphic novel series BEGINNINGS: THE GUNSLINGER BORN * THE LONG ROAD HOME * TREACHERY * THE FALL OF GILEAD * THE BATTLE OF JERICHO HILL",
+      "authors": [
+        "Stephen King",
+        "Peter David",
+        "Robin Furth",
+        "Jae Lee",
+        "Richard Isanove"
+      ],
+      "publisher": "Gallery 13",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1982110201",
+      "google_books_id": "J2iVuAEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=J2iVuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King 4",
+      "publication_year": 1990,
+      "genre": "Fiction",
+      "summary": "Firestarter))The Dead Zone))'Salem's Lot))3",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451925041",
+      "google_books_id": "OWOPAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Lost Work of Stephen King",
+      "publication_year": 2020,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen Spignesi",
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623307503",
+      "google_books_id": "i1CXzQEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Dead Zone",
+      "publication_year": 1979,
+      "genre": "English fiction",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 467,
+      "language": "en",
+      "isbn": "0708818749",
+      "google_books_id": "zO5TQgAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=zO5TQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King's The Dark Tower: The Drawing of the Three",
+      "publication_year": 2020,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Enter once more the world of Roland Deschain—and the world of the Dark Tower...now presented in a stunning graphic novel form that will unlock the doorways to terrifying secrets and bold storytelling as part of the dark fantasy masterwork and magnum opus from #1 New York Times bestselling author Stephen King. “The man in black fled across the desert, and the gunslinger followed.” With these unforgettable words, millions of readers were introduced to Stephen King’s iconic character Roland Deschain of Gilead. Roland is the last of his kind, a “gunslinger” charged with protecting whatever goodness and light remains in his world—a world that “moved on,” as they say. In this desolate reality—a dangerous land filled with ancient technology and deadly magic, and yet one that mirrors our own in frightening ways—Roland is on a spellbinding and soul-shattering quest to locate and somehow save the mystical nexus of all worlds, all universes: the Dark Tower. Now, in the graphic novel series adaptation Stephen King’s The Dark Tower: The Drawing of the Three, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland’s troubled past and lifelong odyssey is revealed. Sumptuously drawn by Piotr Kowalski and Jonathan Marks, adapted by Stephen King expert Robin Furth, and scripted by New York Times bestselling author Peter David, The Drawing of the Three is an extraordinary and terrifying journey—ultimately serving as the perfect introduction for a new audience to Stephen King’s modern literary classic The Dark Tower, while giving longtime fans thrilling adventures transformed from his blockbuster novels. This boxed set includes the complete graphic novel series: The Prisoner, House of Cards, The Lady of Shadows, and Bitter Medicine.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Gallery 13",
+      "page_count": 640,
+      "language": "en",
+      "isbn": "1982135468",
+      "google_books_id": "Z2ZPzQEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=Z2ZPzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King #07 3 Vol. Boxed Set",
+      "publication_year": 1993,
+      "genre": null,
+      "summary": "The Dark Tower I: The Gunslinger))The Dark Tower II: The Drawing of the Three))The Dark Tower III: The Waste Lands))3",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451927958",
+      "google_books_id": "t-csAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "A Master Class in Brand Planning",
+      "publication_year": 2007,
+      "genre": "Business & Economics",
+      "summary": "In 1988, on Stephen King’s retirement JWT published ‘The King Papers’ a small collection of Stephen King’s published writings spanning 1967-1985. They remain timelessly potentially valuable but are an almost unexploited gold mine. This book is comprised of a selection of 20-25 of Stephen King’s most important articles, each one introduced by a known and respected practitioner who, in turn, describes the relevance of the particular original idea to the communications environment of today. The worth of this material is that, although the context in which the original papers were written is different, the principles themselves are appropriate to marketing communications in today’s more complex media environment. The book will serve as a valuable reference book for today’s practitioners, as well as a unique source of sophisticated, contemporary thinking.",
+      "authors": [
+        "Judie Lannon",
+        "Merry Baskin"
+      ],
+      "publisher": "John Wiley & Sons",
+      "page_count": 404,
+      "language": "en",
+      "isbn": "9780470517918",
+      "google_books_id": "EneIEAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=EneIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "King Noir",
+      "publication_year": 2025,
+      "genre": "Detective and mystery stories, American",
+      "summary": "\"Over the past thirty years, Stephen King has received enormous attention from both the popular press as well as academics seeking to explain the unique phenomenon of his success. Books on King explore his canon in religious contexts, in political and historical contexts, in mythic-specifically Jungian-contexts, in Gothic/horror (especially American literary) contexts, and in a wide variety of other contexts appropriate to a writer who, over the past half century, has become \"America's Storyteller.\" Beginning with a never-published chapter authored by Stephen King himself on the influence of the genre on his own writing, King Noir makes an invaluable contribution to King scholarship by placing King's works in conversation with American crime fiction. This is the third book that Tony Magistrale and Michael J. Blouin have coauthored on the work of Stephen King, and the first to consider King's canon through the lens of crime fiction. King Noir examines not only King's own efforts at writing in the detective genre, but also how the detective genre finds its way into work typically regarded as horror fiction. In interviews, King has acknowledged his debt to earlier writers in the genre, such as Ed McBain and Raymond Chandler, and he much more often references hardboiled writers than he does horror writers. One could speculate that King became a writer because of his love of pulpy crime fiction, which he continues to hold in high esteem. From The Dead Zone to Mr. Mercedes, from the crime fiction of his pseudonym Richard Bachman to his most recent novel Holly, King returns obsessively to patterns established by American sleuths of every stripe, paying homage to them at the same time as he innovates on the formulas he has inherited. To focus upon a hardboiled Stephen King is to discover exciting new avenues for inquiry into one of America's most enduring, and adaptable, storytellers\"--",
+      "authors": [
+        "Tony Magistrale",
+        "Michael J. Blouin"
+      ],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1496856430",
+      "google_books_id": "GvcU0QEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "STEPHEN KING NEW COVER SERIES No. 9 Bazaar of Bad Dreams",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for BAZAAR OF BAD DREAMS This is No. 9 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring BAZAAR OF BAD DREAMS original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits BAZAAR OF BAD DREAMS Scribner hard cover edition by Stephen King. This purchase includes the complete, wrap-around Original book cover painting of BAZAAR OF BAD DREAMS by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300851",
+      "google_books_id": "jzUyvgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King's The Dark Tower: The Gunslinger",
+      "publication_year": 2019,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Enter once more the world of Roland Deschain—and the world of the Dark Tower...now presented in a stunning graphic novel form that will unlock the doorways to terrifying secrets and bold storytelling as part of the dark fantasy masterwork and magnum opus from #1 New York Times bestselling author Stephen King. “The man in black fled across the desert, and the gunslinger followed.” With these unforgettable words, millions of fans were introduced to Stephen King’s iconic character Roland Deschain of Gilead. Roland is the last of his kind, a “gunslinger” charged with protecting whatever goodness and light remains in his world—a world that “moved on,” as they say. In this desolate reality—a dangerous land filled with ancient technology and deadly magic, and yet one that mirrors our own in frightening ways—Roland is on a spellbinding and soul-shattering quest to locate and somehow save the mystical nexus of all worlds, all universes: the Dark Tower. Now, in the graphic novel series adaptation Stephen King’s The Dark Tower: The Gunslinger, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland’s troubled past and lifelong odyssey is revealed. Sumptuously drawn by Sean Phillips, Luke Ross, Michael Lark, Laurence Campbell, Alex Maleev, and Richard Isanove, adapted by Stephen King expert Robin Furth, and scripted by New York Times bestselling author Peter David, The Gunslinger is an extraordinary and terrifying journey—ultimately serving as the perfect introduction for new readers to Stephen King’s modern literary classic The Dark Tower, while giving longtime fans thrilling adventures transformed from his blockbuster novels. This boxed set includes the complete graphic novel series: The Gunslinger: The Journey Begins, The Little Sisters of Eluria, The Battle of Tull, The Way Station, The Man in Black, and Last Shots.",
+      "authors": [
+        "Stephen King",
+        "Robin Furth",
+        "Peter David"
+      ],
+      "publisher": "Gallery 13",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1982123168",
+      "google_books_id": "HdfMwQEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=HdfMwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "SALEMS LOT: STEPHEN KING NEW COVER SERIES",
+      "publication_year": 2014,
+      "genre": null,
+      "summary": "This is the No. 3 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring SALEM'S LOT. This is a dust jacket only. This commemorative original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed by the artist. This original dust jacket fits SALEM'S LOT the current Doubleday hard cover edition, by Stephen King. This purchase includes: Original 2014 book cover painting of by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. Free acid-free book cover on your cover for complete protection. This purchase is only for this original dust jacket and does not feature a copy of the book.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300630",
+      "google_books_id": "FxoEogEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Uncollected, Unpublished - Revised and Expanded",
+      "publication_year": 2012,
+      "genre": "Literary Criticism",
+      "summary": "Providing a multitude of interesting updates in this revised edition, this text includes a series of newly discovered unpublished works, many of which share King's exclusive and definitive statements about how they originated and why they never saw the light of day.",
+      "authors": [
+        "Rocky Wood"
+      ],
+      "publisher": null,
+      "page_count": 398,
+      "language": "en",
+      "isbn": "1892950960",
+      "google_books_id": "zdF-LwEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=zdF-LwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King's Dark Tower: The Gunslinger - The Little Sisters of Eluria",
+      "publication_year": 2013,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Join Roland Deschain as he explores Mid-World's darkest corners. Near death from an attack by slow mutants, Roland is taken in by a group of nuns who specialize in anything but the healing arts. These hideous, corpse-like creatures - the Little Sisters of Eluria - have murder on their twisted minds. And in his current condition, there's almost nothing the last Gunslinger can do to prevent their tender mercies from taking hold. Dark Tower: The Gunslinger continues with one of the series' most shocking, blood-curdling stories yet - a retelling of author Stephen King's original novella The Little Sisters of Eluria, later compiled in the anthology Everything's Eventual. COLLECTING: Dark Tower : The Gunslinger - The Little Sisters of Eluria 1-5",
+      "authors": [],
+      "publisher": "Marvel",
+      "page_count": 136,
+      "language": "en",
+      "isbn": "0785149325",
+      "google_books_id": "i8NWvgEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=i8NWvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen Kings N.",
+      "publication_year": 2014,
+      "genre": "Comics & Graphic Novels",
+      "summary": "SPANNUNG UND GÄNSEHAUT Psychiater Johnny Bonsaint behandelt den von Zwangsstörungen geplagten Patienten \"N\". Als sich dieser wegen seiner Wahnvorstellungen selbst tötet, begibt sich Johnny an den Ort der düsteren Visionen und beginnt sich zu fragen, ob es sich wirklich nur um grausame Wahnvorstellungen gehandelt hat. Die Comic-Adaption der King'schen Kurzgeschichte verspricht reichlich Spannung und Gänsehaut.",
+      "authors": [
+        "Stephen King",
+        "Marc Guggenheim"
+      ],
+      "publisher": "Panini",
+      "page_count": 114,
+      "language": "de",
+      "isbn": "9783957831774",
+      "google_books_id": "Nc93DwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=Nc93DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "STEPHEN KING NEW COVER SERIES No. 12 Carrie",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for CARRIE This is No. 13 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring CARRIE original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits CARRIE Doubleday hard cover edition by Stephen King. This purchase includes the complete, wrap-around Original book cover painting of CARRIE by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300886",
+      "google_books_id": "-Jw2vgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Prisoner",
+      "publication_year": 2020,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Enter once more the world of Roland Deschain—and the world of the Dark Tower…presented in a stunning graphic novel form that will unlock the doorways to terrifying secrets and bold storytelling as part of the dark fantasy masterwork and magnum opus from #1 New York Times bestselling author Stephen King. “The man in black fled across the desert, and the gunslinger followed.” With these unforgettable words, millions of readers were introduced to Stephen King’s iconic character Roland Deschain of Gilead. Roland is the last of his kind, a “gunslinger” charged with protecting whatever goodness and light remains in his world—a world that “moved on,” as they say. In this desolate reality—a dangerous land filled with ancient technology and deadly magic, and yet one that mirrors our own in frightening ways—Roland is on a spellbinding and soul-shattering quest to locate and somehow save the mystical nexus of all worlds, all universes: the Dark Tower. Now, in the first in the graphic novel series adaptation Stephen King’s The Dark Tower: The Drawing of the Three, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland’s saga continues. Sumptuously drawn by Piotr Kowalski, Jonathan Marks, Juanan Ramirez, and Cory Hamscher, plotted by longtime Stephen King expert Robin Furth, and scripted by New York Times bestselling author Peter David, The Drawing of the Three adaptation is an extraordinary and terrifying journey—ultimately introducing a generation of new readers to Stephen King’s modern literary classic The Dark Tower, while giving longtime fans thrilling adventures transformed from his blockbuster novels.",
+      "authors": [
+        "Stephen King",
+        "Robin Furth",
+        "Peter David"
+      ],
+      "publisher": "Gallery 13",
+      "page_count": 128,
+      "language": "en",
+      "isbn": "9781982135294",
+      "google_books_id": "U6zSDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=U6zSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Tout est fatal",
+      "publication_year": 2003,
+      "genre": "Fiction",
+      "summary": "Ça vous dirait de vivre votre propre autopsie ? De rencontrer le Diable ? De vous suicider de désespoir dans les plaines enneigées du Minnesota ? De fuir la police en compagnie de Dillinger ? De devenir assassin via Internet ou de trouver la petite pièce porte-bonheur qui vous fera décrocher le jackpot ? Alors laissez-vous guider par Stephen King.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Editions Albin Michel",
+      "page_count": 523,
+      "language": "fr",
+      "isbn": "2226137017",
+      "google_books_id": "u2sSPQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Blockade Billy",
+      "publication_year": 2010,
+      "genre": "Fiction",
+      "summary": "Even the most diehard baseball fans don't know the true story of William \"Blockade Billy\" Blakely. He may have been the greatest player the game has ever seen, but today no one remembers his name. He was the first--and only--player to have his existence completely removed from the record books. Even his team is long forgotten, barely a footnote in the game's history. Every effort was made to erase any evidence that William Blakely played professional baseball, and with good reason. Blockade Billy had a secret darker than any pill or injection that might cause a scandal in sports today. His secret was much, much worse... and only Stephen King, the most gifted storyteller of our age, can reveal the truth to the world, once and for all. This original, never-before-published novella represents Stephen King at his very best, and this Cemetery Dance hardcover edition brings it into print for the very first time",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1587672286",
+      "google_books_id": "PN5qngEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=PN5qngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "The Lost Work of Stephen King",
+      "publication_year": 1998,
+      "genre": "Fiction",
+      "summary": "The author of three previous works about the modern master of horror describes unpublished manuscripts, childhood and student writings, nonfiction articles, and even poetry by King, providing insight into King's personality and his evolution as a writer. Seventy-five rarities are described and summarized, with selected excerpts and notes on how to obtain a complete copy of the work. Appendices review all of his mainstream material and film adaptations of his work, including student films and TV features. Annotation copyrighted by Book News, Inc., Portland, OR",
+      "authors": [
+        "Stephen J. Spignesi"
+      ],
+      "publisher": "Citadel Press",
+      "page_count": 400,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "i7ghAQAAIAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=i7ghAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Biblioteca de Autor Stephen King",
+      "publication_year": 1995,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 288,
+      "language": "es",
+      "isbn": "8401008654",
+      "google_books_id": "l0K0AAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Eyes of the Dragon",
+      "publication_year": 2018,
+      "genre": "Fiction",
+      "summary": "“It is just not possible to stop turning the pages” (The Washington Post) of this bestselling classic tale—an epic fantasy as only Stephen King could envision it. “Once, in a kingdom called Delain, there was a king with two sons….” Thus begins one of the most unique tales that master storyteller Stephen King has ever written—a sprawling fantasy of dark magic and the struggle for absolute power that utterly transforms the destinies of two brothers born into royalty. Through this enthralling masterpiece of mythical adventure, intrigue, and terror, you will thrill to this unforgettable narrative filled with relentless, wicked enchantment, and the most terrible of secrets….",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Gallery Books",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1501192205",
+      "google_books_id": "4XkotAEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=4XkotAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "The Talisman. Stephen King, Peter Straub. (1. Publ.)",
+      "publication_year": 1984,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King",
+        "Peter Straub"
+      ],
+      "publisher": null,
+      "page_count": 644,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "IWaArgEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Three complete novels",
+      "publication_year": 2002,
+      "genre": "Bullying",
+      "summary": "Stephen King is a unique and powerful writer without equal for millions of horror fans. His incredible narrative drive ensnares the reader in a web of everyday surroundings, believable situations and recognizable characters that are eventually caught up in a terrifying noose of monumental evil. Three of King's earlier classics are here together in one volume, complete and unabridged and chilling: the explosive adolescent powers of Carried; the slow, insidious corruption of a small American town by a terrorizing vampire; and the malicious machinations of the Overlook Hotel and the gift of the \"shine.\"",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Wings",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "0517219026",
+      "google_books_id": "V-cOAAAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=V-cOAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King Backlist X20 D/B",
+      "publication_year": 1994,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Orbit Books",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0751595101",
+      "google_books_id": "H169oQEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Carrie",
+      "publication_year": 2001,
+      "genre": "Fiction",
+      "summary": "El escalofriante caso de una joven en apariencia insignificante que se transformó en un ser de poderes anormales, sembrando el terror en su ciudad. Con pulo mágico para mantener la tensión a lo largo de todo el libro, Stephen King narra la atormentada adolescencia de Carrie, y nos envuelve en una atmósfera sobrecogedora cuando la muchacha realiza una seie de descubrimientos hasta llegar al terrible momento de la vengaza. esta novela fue llevada al cina y obtuvo un imenso éxito de público y de crítica.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Plaza y Janes",
+      "page_count": 288,
+      "language": "es",
+      "isbn": "0609810901",
+      "google_books_id": "Nkv1T2ZyN-0C",
+      "thumbnail": "http://books.google.com/books/content?id=Nkv1T2ZyN-0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "STEPHEN KING NEW COVER SERIES No. 8 Finders Keepers",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for FINDERS KEEPERS This is No. 7 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring FINDERS KEEPERS original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits FINDERS KEEPERS Scribner hard cover edition by Stephen King. This purchase includes the complete, wrap-around Original book cover painting of FINDERS KEEPERS by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300843",
+      "google_books_id": "kOxBvgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Doctor Sleep",
+      "publication_year": 2013,
+      "genre": "Fiction",
+      "summary": "After decades as an itinerant alcoholic, middle-aged Dan Torrance uses his remnant powers to assist the dying before coming to the aid of a twelve-year-old girl being tortured by a tribe of murderous paranormals.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 544,
+      "language": "en",
+      "isbn": "9781476727653",
+      "google_books_id": "DQTgAAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=DQTgAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "The Stephen King Quiz Book",
+      "publication_year": 1991,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen Spignesi"
+      ],
+      "publisher": "Hodder Education",
+      "page_count": 203,
+      "language": "en",
+      "isbn": "0450545733",
+      "google_books_id": "2KeFHAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Stephen King Collection",
+      "publication_year": 1995,
+      "genre": null,
+      "summary": "Gray Matter, The Bogeyman, I Know What You Need, Strawberry Spring, The Woman in the Room, Battleground and more.",
+      "authors": [
+        "Stephen King",
+        "Performed by John Glover"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0179317369",
+      "google_books_id": "zKKgXwAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Way Station",
+      "publication_year": 2019,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Enter once more the world of Roland Deschain—and the world of the Dark Tower—presented in a stunning graphic novel form unlocking the doorways to terrifying secrets and bold storytelling as part of the dark fantasy masterwork and magnum opus from #1 New York Times bestselling author Stephen King. “The man in black fled across the desert, and the gunslinger followed.” With these unforgettable words, millions of readers were introduced to Stephen King’s iconic character Roland Deschain of Gilead. Roland is the last of his kind, a “gunslinger” charged with protecting whatever goodness and light remains in his world—a world that “moved on,” as they say. In this desolate reality—a dangerous land filled with ancient technology and deadly magic, and yet one that mirrors our own in frightening ways—Roland is on a spellbinding and soul-shattering quest to locate and somehow save the mystical nexus of all worlds, all universes: the Dark Tower. Now, in the graphic novel series adaptation Stephen King's The Dark Tower: The Gunslinger, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland’s troubled past and ongoing saga is revealed. Sumptuously drawn by Richard Isanove, Sean Phillips, Luke Ross, Michael Lark, and Laurence Campbell, plotted by longtime Stephen King expert Robin Furth, and scripted by New York Times bestselling author Peter David, The Gunslinger adaptation is an extraordinary and terrifying journey—ultimately serving as the perfect introduction for new readers to Stephen King’s modern literary classic The Dark Tower, while giving longtime fans thrilling adventures transformed from his blockbuster novels. Roland has barely escaped the frightening and deadly trap set for him by the elusive Man in Black in the sleepy little town of Tull—a place centered in the apotheosis of all deserts, and where the sinister sorcerer’s power had taken hold. Leaving death and despair in his wake, Roland soon arrives at a mysterious way station…and meets a young boy, Jake Chambers, who has seemingly appeared out of nowhere from another place and time. But who is this sophisticated child, and what is his connection to Roland’s quest and the Man in Black himself?",
+      "authors": [
+        "Stephen King",
+        "Robin Furth",
+        "Peter David"
+      ],
+      "publisher": "Gallery 13",
+      "page_count": 128,
+      "language": "en",
+      "isbn": "9781982109905",
+      "google_books_id": "4I2RDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=4I2RDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King's Creepshow",
+      "publication_year": 1982,
+      "genre": "Horror comic books, strips, etc",
+      "summary": null,
+      "authors": [
+        "Berni Wrightson",
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "tLfQzgEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Fairy Tale",
+      "publication_year": 2022,
+      "genre": "Fiction",
+      "summary": "Der siebzehnjährige Charlie Reade hat kein leichtes Leben. Seine Mutter starb, als er sieben war, und sein Vater ist dem Alkohol verfallen. Eines Tages offenbart ihm der von allen gemiedene mysteriöse Nachbar auf dem Sterbebett ein Geheimnis, das Charlie schließlich auf eine abenteuerliche Reise in eine andere, fremde Welt führt. Dort treiben mächtige Kreaturen ihr Unwesen. Die unterdrückten Einwohner sehen in Charlie ihren Retter. Aber dazu muss er erst die Prinzessin, die rechtmäßige Gebieterin des fantastischen Märchenreichs, von ihrem grausamen Leiden befreien.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Heyne Verlag",
+      "page_count": 631,
+      "language": "de",
+      "isbn": "9783641295486",
+      "google_books_id": "IkJnEAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=IkJnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King's Dance macabre",
+      "publication_year": 1982,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 400,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "nBcBOwAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Feast of Fear",
+      "publication_year": 1989,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 272,
+      "language": "en",
+      "isbn": "0887330835",
+      "google_books_id": "J4slAgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Flight or Fright",
+      "publication_year": 2018,
+      "genre": "Fiction",
+      "summary": "Fasten your seatbelts for an anthology of turbulent tales curated by Stephen King and Bev Vincent. This exciting new collection, perfect for airport or aeroplane reading, includes an original introduction and story notes for each story by Stephen King, and brand new stories from Stephen King and Joe Hill. Stephen King hates to fly. Now he and co-editor Bev Vincent would like to share this fear of flying with you. Welcome to Flight or Fright, an anthology about all the things that can go horribly wrong when you're suspended six miles in the air, hurtling through space at more than 500 mph and sealed up in a metal tube (like - gulp! - a coffin) with hundreds of strangers. All the ways your trip into the friendly skies can turn into a nightmare, including some we'll bet you've never thought of before... but now you will the next time you walk down the jetway and place your fate in the hands of a total stranger. Featuring brand new stories by Joe Hill and Stephen King, as well as fourteen classic tales and one poem from the likes of Richard Matheson, Ray Bradbury, Roald Dahl, Dan Simmons, and many others, Flight or Fright is, as King says, \"ideal airplane reading, especially on stormy descents... Even if you are safe on the ground, you might want to buckle up nice and tight.\" Book a flight for this terrifying new anthology that will have you thinking twice about how you want to reach your final destination. Table of Contents: Introduction by Stephen King Cargo by E. Michael Lewis The Horror of the Heights by Sir Arthur Conan Doyle Nightmare at 20,000 Feet by Richard Matheson The Flying Machine by Ambrose Bierce Lucifer! by E.C. Tubb The Fifth Category by Tom Bissell Two Minutes Forty-Five Seconds by Dan Simmons Diablitos by Cody Goodfellow Air Raid by John Varley You Are Released by Joe Hill Warbirds by David J. Schow The Flying Machine by Ray Bradbury Zombies on a Plane by Bev Vincent They Shall Not Grow Old by Roald Dahl Murder in the Air by Peter Tremayne The Turbulence Expert by Stephen King Falling by James L. Dickey Afterword by Bev Vincent",
+      "authors": [
+        "Stephen King",
+        "Bev Vincent",
+        "Michael Lewis",
+        "Sir Arthur Conan Doyle",
+        "Richard Matheson",
+        "Ambrose Bierce",
+        "E.C. Tubb",
+        "Tom Bissell",
+        "Dan Simmons",
+        "Cody Goodfellow",
+        "John Varley",
+        "Joe Hill",
+        "David J. Schow",
+        "Ray Bradbury",
+        "Roald Dahl",
+        "Peter Treemayne",
+        "James L. Dickey"
+      ],
+      "publisher": "Hachette UK",
+      "page_count": 278,
+      "language": "en",
+      "isbn": "9781473691599",
+      "google_books_id": "XyxTDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=XyxTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King's The Langoliers",
+      "publication_year": 2023,
+      "genre": null,
+      "summary": "​​​​​​​Two terrifying versions of the original screenplay adapted by horror legend Tom Holland (Fright Night/Child's Play) and horror author legend Michael McDowell, based on the novel by Stephen King (as Richard Bachman).",
+      "authors": [],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1960721372",
+      "google_books_id": "SNBf0AEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=SNBf0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King the Dark Tower Gunslinger (Roland) Complete Paperback Set 1-7 the Gunslinger, the Drawing of Three, the Wastelands, Wizard and Glass, Wolves of the Calla, the Song of Susannah, the Dark Tower",
+      "publication_year": null,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1608943720",
+      "google_books_id": "4yT_QQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "STEPHEN KING NEW COVER SERIES No. 11 Eyes of the Dragon",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for EYES OF THE DRAGON This is No. 11 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring EYES OF THE DRAGON original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits EYES OF THE DRAGON Viking hard cover edition by Stephen King. This purchase includes the complete, wrap-around Original book cover painting of EYES OF THE DRAGON by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300878",
+      "google_books_id": "fIMzvgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Mixed a S/Wx12",
+      "publication_year": 1982,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0751592358",
+      "google_books_id": "eejjoQEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King 8",
+      "publication_year": 1991,
+      "genre": null,
+      "summary": "The Stand: Complete and Uncut))The Dark Half))2",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "New Amer Library",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451925092",
+      "google_books_id": "yyuPAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King Mixed a B/L D/Bx21 2 for #10",
+      "publication_year": 2001,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0356223272",
+      "google_books_id": "LsuuoQEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "STEPHEN KING NEW COVER SERIES No. 5 Mr. Mercedes",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for Mr. Mercedes! This is No. 5 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring MR. MERCEDES original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits MR. MERCEDES Scribner hard cover edition by Stephen King. This purchase includes the complete, wrap-around Original 2015 book cover painting of MR. MERCEDES by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300827",
+      "google_books_id": "PTYnvgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Cell",
+      "publication_year": 2007,
+      "genre": "Fiction",
+      "summary": "A través de los teléfonos móviles se envía un mensaje que convierte a todos en esclavos asesinos. Pocos se escapan de su fuerza y estos tendrán que sobrevivir en un mundo totalmente transformado. Clayton Riddell no tiene teléfono móvil, su esposa, Sharon, tampoco. Están separados pero en contacto constante por su hijo Johnny Gee. Sus padres le han regalado un móvil para cosas urgentes. Saben que muy a menudo no lo lleva encima y por eso le riñen. El uno de octubre Clay viaja a Boston por una entrevista de trabajo y de repente cuando pasea por el parque es testigo de escenas espeluznantes, escenas totalmente inexplicables: gente en la calle que hablando por el móvil se convierten repentinamente en monstruos asesinos, atacan y matan a todos los de su alrededor. Los coches chocan entre sí. Es una escena de caos sangriento, incendios, alarmas.. . incomprensible. Ya no hay canales de radio ni televisión, ni servicios de ningún tipo. Nada que pueda poner orden. Clay entiende que todo ha sido causado por un mensaje a través de los móviles. Consigue refugiarse en un hotel junto con otro hombre Tom McCourt y una adolescente, Alice, los dos sin móvil. Deciden abandonar la ciudad para averiguar si la situación es la misma en el resto del país. Para Clay, lo más importante es localizar a su hijo que, espera que hoy no lleve su móvil encima. Los tres emprenden su viaje a pie hacia la ciudad donde vive Johnny y su madre. Andan de noche cuando los locos no se mueven. De día se esconden en casas abandonadas. En su camino se encuentran con otros que se han salvado pero son pocos y descubren que los locos se han convertido en una especie de zombies telepáticos. Estos se juntan de día en grandes masas, llamados por música transmitida por altavoces, en estadios de deportes. De noche duermen. Están controlados por los sonidos. Andan y andan hacia un solo destino. La mujer de Clay ha sido víctima de la gran destrucción pero su hijo parece haber sobrevivido y Clay y sus dos compañeros siguen su pista. Van de ciudad en ciudad, entre cadáveres y zombies asesinos, entre el caos y la destrucción, hasta llegar a la ciudad de su destino. Y allí Clay encontrará a Johnny, no el Johnny de antes, pero quizás algún día aprenderá de nuevo a ser un niño “normal”. El mensaje de los móviles va perdiendo toda su fuerza pero...el mundo nunca volverá a ser lo mismo.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 464,
+      "language": "es",
+      "isbn": "0307391337",
+      "google_books_id": "9ewvFrFwYqsC",
+      "thumbnail": "http://books.google.com/books/content?id=9ewvFrFwYqsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "You Like It Darker",
+      "publication_year": 2025,
+      "genre": "Fiction",
+      "summary": "NAMED A NEW YORK TIMES BOOK REVIEW TOP 10 HORROR BOOK OF 2024 WINNER OF THE GOODREADS CHOICE AWARD FOR HORROR “Stephen King knows You Like It Darker and obliges with sensational new tales” (USA TODAY): From legendary storyteller and master of short fiction Stephen King, an extraordinary collection of stories that are “a master class in tension and full of King’s dark humor” (The New York Times Book Review)—now with a bonus story, “The Music Room.” “You like it darker? Fine, so do I,” writes Stephen King in the afterword to this magnificent new collection of twelve stories that delve into the darker part of life—both metaphorical and literal. King has, for half a century, been a master of the form, and these stories, about fate, mortality, luck, and the folds in reality where anything can happen, are as rich and riveting as his novels, both weighty in theme and a huge pleasure to read. King writes to feel “the exhilaration of leaving ordinary day-to-day life behind,” and in You Like It Darker, readers will feel that exhilaration too, again and again. “Two Talented Bastids” explores the long-hidden secret of how the eponymous gentlemen got their skills. In “Danny Coughlin’s Bad Dream,” a brief and unprecedented psychic flash upends dozens of lives, Danny’s most catastrophically. In “Rattlesnakes,” a sequel to Cujo, a grieving widower travels to Florida for respite and instead receives an unexpected inheritance—with major strings attached. In “The Dreamers,” a taciturn Vietnam vet answers a job ad and learns that there are some corners of the universe best left unexplored. “The Answer Man” asks if prescience is good luck or bad and reminds us that a life marked by unbearable tragedy can still be meaningful. “King’s skills as a storyteller remain undimmed” (The Minnesota Star Tribune) and his ability to surprise, amaze, and bring us both terror and solace is unsurpassed. “The titular darkness promised is as riveting and all-consuming as ever” (New York magazine). You like it darker? You got it.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Scribner",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1668037726",
+      "google_books_id": "KxIZ0QEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=KxIZ0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Bare Bones",
+      "publication_year": 1988,
+      "genre": "Horror tales, American",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 384,
+      "language": "en",
+      "isbn": "088733024X",
+      "google_books_id": "XTtCPgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Dark Tower: The Gunslinger",
+      "publication_year": 2013,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Roland Deschain, the Last Gunslinger, closes at last on his elusive nemesis, the Man in Black. At Roland's side is his newest tet-mate, Jake Chambers - a boy from some strange other Earth of subways, turnpikes and fluorescent lights. But to reach the Man in Black - and save the Dark Tower - Roland is prepared to risk all. His life. His very soul. Even Jake. Follow this mismatched pair of travelers on the final leg of a treacherous journey, to the destiny Roland has pursued for twelve long years - and the fate young Jake is all too aware awaits him. Master author Stephen King's magnum opus hits the comic pages in an atmospheric vision of Mid-World that draws inspiration from the final two stories of King's The Gunslinger. COLLECTING: Dark Tower: The Guns linger - The Man In Black 1-5",
+      "authors": [],
+      "publisher": "Marvel",
+      "page_count": 136,
+      "language": "en",
+      "isbn": "0785149384",
+      "google_books_id": "RMF0mwEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=RMF0mwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King's Cat's Eye",
+      "publication_year": 1985,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 204,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "-ec1MwEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Treachery",
+      "publication_year": 2018,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Enter once more the world of Roland Deschain—and the world of the Dark Tower...now presented in a stunning graphic novel form that will unlock the doorways to terrifying secrets and bold storytelling as part of the dark fantasy masterwork and magnum opus from #1 New York Times bestselling author Stephen King. “The man in black fled across the desert, and the gunslinger followed.” With these unforgettable words, millions of readers were introduced to Stephen King’s iconic character Roland Deschain of Gilead. Roland is the last of his kind, a “gunslinger” charged with protecting whatever goodness and light remains in his world—a world that “moved on,” as they say. In this desolate reality—a dangerous land filled with ancient technology and deadly magic, and yet one that mirrors our own in frightening ways—Roland is on a spellbinding and soul-shattering quest to locate and somehow save the mystical nexus of all worlds, all universes: the Dark Tower. Now, in the graphic novel series Stephen King's The Dark Tower: Beginnings, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland's troubled past and coming-of-age is revealed. Sumptuously drawn by Jae Lee and Richard Isanove, plotted by longtime Stephen King expert Robin Furth, and scripted by New York Times bestselling author Peter David, Beginnings is an extraordinary and terrifying journey into Roland’s origins—ultimately serving as the perfect introduction for new readers to Stephen King’s modern literary classic The Dark Tower, while giving longtime fans thrilling adventures merely hinted at in his blockbuster novels. Roland Deschain of Gilead and his ka-tet of Cuthbert Allgood and Alain Johns may have finally returned home, but all is not well in the crown jewel of Mid-World. Roland has voluntarily kept the stolen evil seeing sphere nicknamed “Maerlyn's Grapefruit”—lost in his obsession with peering into its pinkish depths, despite the devastating toll it takes on his health...and what the young gunslinger sees within the glass heralds the darkest of nightmares. Meanwhile, all around him, danger lurks in every form, as the shocking and horrific machinations of Gilead’s sworn enemy, “the Good Man” John Farson, threatens all Roland holds dear and in ways he could never imagine...the cruel hand of fate about to push him inexorably closer along the path to the Dark Tower.",
+      "authors": [
+        "Stephen King",
+        "Peter David",
+        "Robin Furth"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 160,
+      "language": "en",
+      "isbn": "9781982108267",
+      "google_books_id": "d3pgDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=d3pgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King's N.",
+      "publication_year": 2011,
+      "genre": "Comics & Graphic Novels",
+      "summary": "There is something unearthly and mysterious deep in Ackerman's Field in rural Maine. There is a Stonehenge-like arrangement of seven stones with a horrifying EYE in the center. And whatever dwells there in that strange, windswept setting may have brought about the suicide of one man...and harbor death for the OCD afflicted \"N.\", whose visits to the field have passed beyond compulsion into the realm of obsession. Based on the chilling short story from the recent Stephen King collection, JUST AFTER SUNSET, this adaptation will provide nightmares aplenty. Just keep counting the stones...keep counting...counting... COLLECTING: Stephen King's N. #1-4",
+      "authors": [],
+      "publisher": "Marvel",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "0785134549",
+      "google_books_id": "5KBBcgAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=5KBBcgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "From a Buick 8, Stephen King",
+      "publication_year": 2002,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "YaU9nwEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Mr. Mercedes",
+      "publication_year": 2014,
+      "genre": null,
+      "summary": "1 / 500 Signed, Numbered, Artist Commemorative Wraparound Cover for MR. MERCEDES! This is No. 5 in the Signed Stephen King / Glenn Chadbourne Original Cover Series featuring MR. MERCEDES original cover art. This is a dust jacket only. This commemorative and original dust jacket cover is by artist Glenn Chadbourne. This dust jacket is personally signed and numbered by the artist. This original dust jacket fits MR. MERCEDES Scribner hard cover edition by Stephen King. This purchase includes: Original 2014 book cover painting of MR. MERCEDES by artist Glenn Chadbourne. Dust Jacket Signed by Glenn Chadbourne on the back flap. Each copy features the Glenn Chadbourne embossing with a gold seal to complete authentication, featured on the back side of the cover. This purchase is only for this original dust jacket and does not feature a copy of the book. A portion of the proceeds are given to Stephen King's Haven Foundation that supports authors and artists.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300681",
+      "google_books_id": "FmAYjgEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Bad Death of Eduard Delacroix",
+      "publication_year": 1996,
+      "genre": "Fiction",
+      "summary": "Time runs out for one of the inmates on death row at Cold Mountain penitentiary.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Signet",
+      "page_count": 100,
+      "language": "en",
+      "isbn": "0451190556",
+      "google_books_id": "0bcKl-k_dB4C",
+      "thumbnail": "http://books.google.com/books/content?id=0bcKl-k_dB4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Storm of the Century",
+      "publication_year": 1999,
+      "genre": "Fiction",
+      "summary": "Publisher Description",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 400,
+      "language": "en",
+      "isbn": "9780671032647",
+      "google_books_id": "wj38LXnBk9oC",
+      "thumbnail": "http://books.google.com/books/content?id=wj38LXnBk9oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King #11-2 Vol. Boxed",
+      "publication_year": 1994,
+      "genre": null,
+      "summary": "Dolores Claiborne))Nightmares & Dreamscapes))2",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": "0451929314",
+      "google_books_id": "60YttAEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King the Dark Tower Little Sisters of Eluria",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "Artist Erik Wilson was commissioned by Stephen King to produce an original artwork for his novella, THE LITTLE SISTERS OF ELURIA, from the Dark Tower universe. It was published in black and white in the LEGENDS book. However the work was originally produced by the artist in color. Lithograph features include: The only color version produced of this artwork. Printed on acid-free card stock in four-color. Signed and Numbered, by artist Erik Wilson. Limited 500 copies. This lithograph is suitable for framing, measuring 17 x 24 inches.This poster is sent rolled and kept protected in plastic for complete protection. This movie-sized poster will look great in your Stephen King / book library at home.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "OCD",
+      "page_count": null,
+      "language": "en",
+      "isbn": "1623300738",
+      "google_books_id": "X6WnDAEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Stand",
+      "publication_year": 2009,
+      "genre": null,
+      "summary": "This a Limited print run foil-embossed slipcase that comes with a first edition the Marvel The Stand Captain Trips hardcover. This red-bound alligator slipcase features a foil embossings with original artwork that adorns both side panels and the spine. The spine features a biological symbols and black crows! PLEASE NOTE: This is the No. 1 of 5 slipcased editions that will spell out S-T-A-N-D on the spine when completed, along with additional artwork as mentioned. This will protect your Stand Captain Trips hardcover set and sit nicely on your shelf with your other Stephen King titles. Captain Trips is the first of five in the Stand comic series. Artwork is original to this slipcase. Order early as this is a limited publication event. All five slipcased sets (sold separately) will be in red alligator bindings. ABOUT THE AUTHOR: This apocalyptic style slipcase is produced by OverlookConnection.com Press and houses the first edition of Marvels The Stand Captain Trips first edition hardcover. Captain Trips is the first in a five arc series based on Stephen King's The Stand. OverlookConnection.com Press supplies thousands of books, videos, comics and items on Stephen King, Horror, Science Fiction, Mystery, and Fantasy. Celebrating Twenty Years in 2007, the OverlookConnection.com Press has also published over 30 volumes of original fiction and non-fiction titles by F. Paul Wilson, Jack Ketchum, Edward Lee, and many more. They have also published books on Stephen King, Peter Straub, and Orson Scott Card.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 130,
+      "language": "en",
+      "isbn": "1892950251",
+      "google_books_id": "w4ZoPgAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Talisman",
+      "publication_year": 2001,
+      "genre": "Fiction",
+      "summary": "Twelve-year-old Jack Sawyer braves the mysterious dangers of the Territories, a surreal parallel world, in his cross-country quest through the U.S. for the Talisman, the only hope for his dying mother and for his own survival.",
+      "authors": [
+        "Stephen King",
+        "Peter Straub"
+      ],
+      "publisher": null,
+      "page_count": 735,
+      "language": "en",
+      "isbn": "9780345444882",
+      "google_books_id": "pCz7XlZaESwC",
+      "thumbnail": "http://books.google.com/books/content?id=pCz7XlZaESwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King Sculpture",
+      "publication_year": 2014,
+      "genre": "Sculpture, Australian",
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "BFbjnQAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "The Battle of Tull",
+      "publication_year": 2019,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Enter once more the world of Roland Deschain—and the world of the Dark Tower...presented in a stunning graphic novel form that will unlock the doorways to terrifying secrets and bold storytelling as part of the dark fantasy masterwork and magnum opus from #1 New York Times bestselling author Stephen King. “The man in black fled across the desert, and the gunslinger followed.” With these unforgettable words, millions of readers were introduced to Stephen King’s iconic character Roland Deschain of Gilead. Roland is the last of his kind, a “gunslinger” charged with protecting whatever goodness and light remains in his world—a world that “moved on,” as they say. In this desolate reality—a dangerous land filled with ancient technology and deadly magic, and yet one that mirrors our own in frightening ways—Roland is on a spellbinding and soul-shattering quest to locate and somehow save the mystical nexus of all worlds, all universes: the Dark Tower. Now, in the graphic novel series adaptation Stephen King's The Dark Tower: The Gunslinger, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland's troubled past and ongoing saga is revealed. Sumptuously drawn by Richard Isanove, Sean Phillips, Luke Ross, and Michael Lark, plotted by longtime Stephen King expert Robin Furth, and scripted by New York Times bestselling author Peter David, The Gunslinger adaptation is an extraordinary and terrifying journey—ultimately serving as the perfect introduction for new readers to Stephen King’s modern literary classic The Dark Tower, while giving longtime fans thrilling adventures transformed from his blockbuster novels. Following the road through the Mohaine Desert, Roland continues his epic search for the elusive Man in Black. Instead, he finds Tull, the last stop of civilization. A town of devil grass, desert sand, and despair…full of nothing, especially mercy. It may seem Tull is on the very edge of the world, with little past the horizon but a steep fall to oblivion. But Roland believes otherwise…that beyond the limits of Tull lies a hidden truth that means everything to the fate of Mid-World. The Man in Black holds the key to that mystery, and Roland is going to keep following him—even through a deadly trap set here in this town—to unlock it.",
+      "authors": [
+        "Stephen King",
+        "Robin Furth",
+        "Peter David"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 132,
+      "language": "en",
+      "isbn": "9781982109899",
+      "google_books_id": "Ug5sDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=Ug5sDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "The Sun Dog",
+      "publication_year": 2021,
+      "genre": "Fiction",
+      "summary": "The No. 1 bestselling author Stephen King's novella The Sun Dog, published in his award-winning 1990 story collection Four Past Midnight, is now available as a standalone publication. It's mine - that was what he had thought when his finger had pushed the shutter-button for the first time. Now he found himself wondering if maybe he hadn't gotten that backward. Kevin Delevan wants only one thing for his fifteenth birthday: a Polaroid Sun 660. There's something wrong with his gift, though. No matter where Kevin aims the camera, it produces a photograph of an enormous, vicious dog. In each successive picture, the menacing creature draws nearer to the flat surface of the Polaroid film as if it intends to break through. When old Pop Merrill, Castle Rock's sharpest trader, gets wind of this phenomenon, he devises a way to profit from it. But the Sun Dog, a beast that shouldn't exist at all, turns out to be a very dangerous investment.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Hachette UK",
+      "page_count": 219,
+      "language": "en",
+      "isbn": "9781529379266",
+      "google_books_id": "dco5EAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=dco5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Holly",
+      "publication_year": 2023,
+      "genre": "Fiction",
+      "summary": "*THE NUMBER ONE BESTSELLER* Holly Gibney, one of Stephen King's most compelling and ingeniously resourceful characters, returns in this thrilling novel to solve the gruesome truth behind multiple disappearances in a Midwestern town. Stephen King's HOLLY marks the triumphant return of beloved King character Holly Gibney. Readers have witnessed Holly's gradual transformation from a shy (but also brave and ethical) recluse in Mr Mercedes to Bill Hodges's partner in Finders Keepers to a full-fledged, smart, and occasionally tough private detective in The Outsider. In King's new novel, Holly is on her own, and up against a pair of unimaginably depraved and brilliantly disguised adversaries. When Penny Dahl calls the Finders Keepers detective agency hoping for help locating her missing daughter, Holly is reluctant to accept the case. Her partner, Pete, has Covid. Her (very complicated) mother has just died. And Holly is meant to be on leave. But something in Penny Dahl's desperate voice makes it impossible for Holly to turn her down. Mere blocks from where Bonnie Dahl disappeared live Professors Rodney and Emily Harris. They are the picture of bourgeois respectability: married octogenarians, devoted to each other, and semi-retired lifelong academics. But they are harbouring an unholy secret in the basement of their well-kept, book-lined home, one that may be related to Bonnie's disappearance. And it will prove nearly impossible to discover what they are up to: they are savvy, they are patient, and they are ruthless. Holly must summon all her formidable talents to outthink and outmanoeuvre the shockingly twisted professors in this chilling new masterwork from Stephen King. 'I could never let Holly Gibney go. She was supposed to be a walk-on character in Mr Mercedes and she just kind of stole the book and stole my heart. Holly is all her.' STEPHEN KING 'Lavished with the kind of dialogue most mortal writers can only dream of crafting ... King's portrait of Holly is sympathetic, subtle and seductive' INDEPENDENT 'King's wonderfully awkward private detective Holly Gibney returns in this black-hearted parable of American life in the Covid era... As horrifying as anything King has written' MAIL ON SUNDAY 'Stephen King's prolific late flowering continues with a new outing for his detective Holly Gibney, chasing down serial killers in Holly' GUARDIAN",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Hodder & Stoughton Limited",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1399712918",
+      "google_books_id": "54ynzwEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=54ynzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Stephen King's Year of Fear Calendar 1993",
+      "publication_year": 1992,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Viking Adult",
+      "page_count": 240,
+      "language": "en",
+      "isbn": "0525934804",
+      "google_books_id": "p-NuAAAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Un basm",
+      "publication_year": null,
+      "genre": "Fiction",
+      "summary": "„Unul dintre cei mai mari povestitori contemporani.“ Guardian La începutul pandemiei, legendarul povestitor Stephen King s-a întrebat: „Ce ai putea scrie care să te facă fericit?“ „Ca și cum imaginația mea abia aștepta să-i fie pusă întrebarea, mi s-a arătat un oraș mare și părăsit – dar cu o viață proprie. Am văzut străzile pustii, clădirile bântuite, un cap de gargui care zăcea răsturnat pe stradă. Am văzut statui sfărâmate (nu știam ce reprezintă, dar am aflat în cele din urmă). Am văzut un palat uriaș, impunător, cu turnuri din sticlă atât de înalte, încât vârfurile lor străpungeau norii. Aceste imagini au declanșat povestea pe care voiam să o spun.“ Stephen King Stephen King sondează cel mai adânc puț al imaginației sale în acest roman fermecător despre un adolescent care moștenește cheia către o lume paralelă, în care binele și răul poartă o luptă acerbă. Charlie Reade arată ca un licean obișnuit, priceput la baseball și la fotbal, un elev modest și sârguincios. Când el avea doar zece ani, mama lui a murit într-un accident, iar suferința l-a făcut pe tatăl său să se cufunde în alcool. Maturizat precoce, Charlie a învățat cum să aibă grijă de el însuși, dar și de propriul tată. La vârsta de șaptesprezece ani, adolescentul întâlnește o cățelușă adorabilă pe nume Radar și pe stăpânul ei, Howard Bowditch, un bătrânel singuratic, care trăiește într-o casă mare, situată pe culmea unui deal, având în curtea din spate un șopron ținut sub lacăt. „Stephen King știe cu exactitate de unde izvorăsc poveștile și cum se înrâuresc apoi în fluxul creativ universal ca într-un fluviu nesfârșit și învolburat. Iar cartea aceasta este luată chiar de acolo, din gura izvorului, de unde curg cele mai strălucitoare povești. De acolo de unde au fost luate poveștile lui Peter Pan din Neverland sau cea a lui Atreiu din Fantazia. Cu mențiunea că în textura Unui basm se simte tușa întunecată a unui maestru horror.“ MARIAN COMAN, redactor-șef ARMADA",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Nemira Publishing House",
+      "page_count": 714,
+      "language": "ro",
+      "isbn": "9786064314413",
+      "google_books_id": "D46REAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=D46REAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Bag of Bones Pyramid (S. King)",
+      "publication_year": 1998,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": "Hodder & Stoughton",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0340729449",
+      "google_books_id": "ZsYKmgEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Dark Tower Gunslingers Guidebook",
+      "publication_year": 2007,
+      "genre": null,
+      "summary": "SEALED UPON PUBLICATION in an acid-free cover and backing board for complete archival protection. A very special stand alone issue probing deeply into the incredible life of Marten Broadcloak. We learn his deadly secret agenda and true goal is not to serve the Crimson King, but to climb to the top of the Dark Tower itself and become the overlord of all existence! May luck rise to meet you, sai. Dark days have befallen the once powerful Affiliation. As the Good Mans revolutionaries continue their assault on the civilizations of the Inner Baronies, young Gunslinger Roland Deschain of Gilead and his loyal ka tet embark eastward on an undercover mission to the distant Outer Barony of Mejis on behalf of the Affiliation. The Gunslinger Guidebook serves as your essential guide for Gilead to Mejis and all points in between featuring profiles on the Big Coffin Hunters, Sheemie Ruiz, and Rhea of the Coos. Written by Robin Furth, the guiding force behind the Dark Tower series and illustrated by Richard Isanove, whose stunning coloring on Dark Tower has helped make every issue a work of art. Published by Marvel Comics, and this issue supplied by OC Distribution.",
+      "authors": [
+        "Stephen King",
+        "Robin Furth"
+      ],
+      "publisher": "OCD",
+      "page_count": 32,
+      "language": "en",
+      "isbn": "1623300665",
+      "google_books_id": "mSk0jgEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Last Shots",
+      "publication_year": 2019,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Enter once more the world of Roland Deschain—and the world of the Dark Tower…presented in a stunning graphic novel form that will unlock the doorways to terrifying secrets and bold storytelling as part of the dark fantasy masterwork and magnum opus from #1 New York Times bestselling author Stephen King. “The man in black fled across the desert, and the gunslinger followed.” With these unforgettable words, millions of readers were introduced to Stephen King’s iconic character Roland Deschain of Gilead. Roland is the last of his kind, a “gunslinger” charged with protecting whatever goodness and light remains in his world—a world that “moved on,” as they say. In this desolate reality—a dangerous land filled with ancient technology and deadly magic, and yet one that mirrors our own in frightening ways—Roland is on a spellbinding and soul-shattering quest to locate and somehow save the mystical nexus of all worlds, all universes: the Dark Tower. Now, in the graphic novel series adaptation Stephen King’s The Dark Tower: The Gunslinger, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland’s troubled past and ongoing saga is revealed. Sumptuously drawn by Richard Isanove, Sean Phillips, Luke Ross, and Michael Lark, plotted by longtime Stephen King expert Robin Furth, and scripted by New York Times bestselling author Peter David, The Gunslinger adaptation is an extraordinary and terrifying journey—ultimately serving as the perfect introduction for new readers to Stephen King’s modern literary classic The Dark Tower, while giving longtime fans thrilling adventures transformed from his blockbuster novels. Two incredible tales on the road to the Dark Tower! Young Sheemie possesses the awesome power to shatter the very Beams of the Dark Tower—the fulcrum of existence itself. But Sheemie doesn’t want to destroy reality; trapped in the prison of Devar-Toi, all he wants is for his friends to rescue him. Roland is coming for him even now, but Sheemie must evade hideous guards and the monstrous Great Old Ones while he waits…Traveling through the Desatoya Mountains, Roland comes across a haunted camp. There he relives one of his past adventures, in which he and his ka-tet were trapped by supernatural enemies. How will the young gunslinger survive the sinister assault? And how does it relate to his current guest?",
+      "authors": [
+        "Stephen King",
+        "Robin Furth",
+        "Peter David"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 128,
+      "language": "en",
+      "isbn": "9781982109950",
+      "google_books_id": "fS-BDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=fS-BDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "House of Cards",
+      "publication_year": 2020,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Enter once more the world of Roland Deschain—and the world of the Dark Tower…presented in a stunning graphic novel form that will unlock the doorways to terrifying secrets and bold storytelling as part of the dark fantasy masterwork and magnum opus from #1 New York Times bestselling author Stephen King. “The man in black fled across the desert, and the gunslinger followed.” With these unforgettable words, millions of readers were introduced to Stephen King’s iconic character Roland Deschain of Gilead. Roland is the last of his kind, a “gunslinger” charged with protecting whatever goodness and light remains in his world—a world that “moved on,” as they say. In this desolate reality—a dangerous land filled with ancient technology and deadly magic, and yet one that mirrors our own in frightening ways—Roland is on a spellbinding and soul-shattering quest to locate and somehow save the mystical nexus of all worlds, all universes: the Dark Tower. Now, in the second in the graphic novel series adaptation Stephen King’s The Dark Tower: The Drawing of the Three, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland’s saga continues. Sumptuously drawn by Piotr Kowalski, Jonathan Marks, Juanan Ramirez, and Cory Hamscher, plotted by longtime Stephen King expert Robin Furth, and scripted by New York Times bestselling author Peter David, The Drawing of the Three adaptation is an extraordinary and terrifying journey—ultimately introducing a generation of new readers to Stephen King’s modern literary classic The Dark Tower, while giving longtime fans thrilling adventures transformed from his blockbuster novels.",
+      "authors": [
+        "Stephen King",
+        "Robin Furth",
+        "Peter David"
+      ],
+      "publisher": "Gallery 13",
+      "page_count": 128,
+      "language": "en",
+      "isbn": "9781982135317",
+      "google_books_id": "3a_YDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=3a_YDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "The Shape Under the Sheet",
+      "publication_year": 1991,
+      "genre": "Literary Criticism",
+      "summary": "This reference source on Stephen King's fiction provides details about characters, places and objects in each of King's novels and short stories and includes a biography section, interviews with family, friends and contemporaries, and sections on film adaptations and audio versions of his work.",
+      "authors": [
+        "Stephen J. Spignesi"
+      ],
+      "publisher": "Popular Culture Ink",
+      "page_count": 808,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "wHUaAQAAMAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=wHUaAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Сияние",
+      "publication_year": 2014,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 543,
+      "language": "ru",
+      "isbn": "5170804938",
+      "google_books_id": "v0r6oQEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King",
+      "publication_year": null,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "Aamb0AEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King's The Dark Tower Concordance",
+      "publication_year": 2012,
+      "genre": "Literary Criticism",
+      "summary": "The Complete Concordance is an entertaining and incredibly useful guide to Stephen King’s epic Dark Tower series by Robin Furth and features a foreword by Stephen King himself. The Dark Tower series is the backbone of Stephen King's legendary career. Eight books and more than three thousand pages make up this bestselling fantasy epic. The Complete Concordance covers books I-VII and The Wind Through the Keyhole and is the definitive encyclopedic reference book that provides readers with everything they need to navigate their way through the series. With hundreds of characters, Mid-World geography, High Speech lexicon, and extensive cross-references, this comprehensive handbook is essential for any Dark Tower fan. Includes: -A Foreword from Stephen King -Characters and Genealogies -Magical Objects and Forces -Mid-World and Our World Places -Portals and Magical Places -Mid-, End-, and Our World Maps -Timeline for the Dark Tower Series -Mid-World Dialects -Mid-World Rhymes, Songs, and Prayers -Political and Cultural References -References to Stephen King’s Own Work",
+      "authors": [
+        "Robin Furth"
+      ],
+      "publisher": "Simon and Schuster",
+      "page_count": 1113,
+      "language": "en",
+      "isbn": "9781451695045",
+      "google_books_id": "fWvcU83jsooC",
+      "thumbnail": "http://books.google.com/books/content?id=fWvcU83jsooC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Bitter Medicine",
+      "publication_year": 2020,
+      "genre": "Comics & Graphic Novels",
+      "summary": "Enter once more the world of Roland Deschain—and the world of the Dark Tower…presented in this stunning fourth graphic novel of The Drawing of the Three story arc that will unlock the doorways to terrifying secrets and bold storytelling as part of the dark fantasy masterwork and magnum opus from #1 New York Times bestselling author Stephen King. “The man in black fled across the desert, and the gunslinger followed.” With these unforgettable words, millions of readers were introduced to Stephen King’s iconic character Roland Deschain of Gilead. Roland is the last of his kind, a “gunslinger” charged with protecting whatever goodness and light remains in his world—a world that “moved on,” as they say. In this desolate reality—a dangerous land filled with ancient technology and deadly magic, and yet one that mirrors our own in frightening ways—Roland is on a spellbinding and soul-shattering quest to locate and somehow save the mystical nexus of all worlds, all universes: the Dark Tower. Now, in the graphic novel series adaptation Stephen King’s The Dark Tower: The Drawing of the Three, originally published by Marvel Comics in single-issue form and creatively overseen by Stephen King himself, the full story of Roland’s saga continues. Sumptuously drawn by Piotr Kowalski, Jonathan Marks, Juanan Ramirez, and Cory Hamscher, plotted by longtime Stephen King expert Robin Furth, and scripted by New York Times bestselling author Peter David, The Drawing of the Three adaptation is an extraordinary and terrifying journey—ultimately introducing a generation of new readers to Stephen King’s modern literary classic The Dark Tower, while giving longtime fans thrilling adventures transformed from his blockbuster novels.",
+      "authors": [
+        "Stephen King",
+        "Robin Furth",
+        "Peter David"
+      ],
+      "publisher": "Gallery 13",
+      "page_count": 128,
+      "language": "en",
+      "isbn": "9781982135355",
+      "google_books_id": "aknnDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=aknnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Stephen King's \"The Lawnmower Man\"",
+      "publication_year": 1990,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Brett Leonard",
+        "Gimel Everett",
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 48,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "qqwpGwAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Journal of Stephen King Jnr of the Overland Telegraph Line",
+      "publication_year": 1871,
+      "genre": "Overland Telegraph Line (N.T. and S.A.)",
+      "summary": "Handwritten diary relating to Stephen King's work as surveyor and explorer for the northern part of the Overland Telegraph.",
+      "authors": [
+        "Stephen King"
+      ],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "6K4i0QEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Our Own Times 1913-1934, Vol. 2, by Stephen King-hall",
+      "publication_year": 1935,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King-hall"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "uQ1cewAACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Dracula",
+      "publication_year": 2011,
+      "genre": "Fiction",
+      "summary": "This is the Complete Unabridged Collectors Edition of Dracula, the 1897 classic horror novel by Irish author Bram Stoker, featuring as its primary antagonist the vampire Count Dracula. It was first published as a hardcover in 1897 by Archibald Constable and Company. Dracula has been attributed to many literary genres including vampire literature, horror fiction, the gothic novel and invasion literature. Structurally it is an epistolary novel, that is, told as a series of letters, diary entries, ships' logs, etc. Literary critics have examined many themes in the novel, such as the role of women in Victorian culture, conventional and conservative sexuality, immigration, colonialism, postcolonialism and folklore. Dracula has inspired countless movies, books, and plays. But few, if any, have been fully faithful to this, Bram Stoker's original, best-selling novel of mystery and horror, love and death, sin and redemption. Dracula chronicles the vampire's journey from Transylvania to the nighttime streets of London. There, he searches for the blood of strong men and beautiful women while his enemies plot to rid the world of his frightful power. REVIEWS: \"Dracula is a virtual textbook on Victorian repression of the erotic and fear of female sexuality.\" - Playboy \"Before all the vampires of modern cinema and horror novels, there was Bram Stoker's Dracula, the original head honcho of horror. All others pale in comparison.\" - Stephen King \"In this volume, lovingly restored to its original unabridged and untouched glory, the power and majesty of Bram Stoker's masterpiece emerges from the coffin dripping with new life.\" - Fangoria Magazine",
+      "authors": [
+        "Bram Stoker"
+      ],
+      "publisher": "Nmd Books",
+      "page_count": 250,
+      "language": "en",
+      "isbn": "1936828154",
+      "google_books_id": "8VNNYgEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=8VNNYgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "The Stephen King Quiz Book",
+      "publication_year": 1990,
+      "genre": "Games & Activities",
+      "summary": "The ultimate quiz book to test anyone's devotion to the work of Stephen King. Covering 19 books, 60 short stories and many films, the master of horror will have readers up all night once again, but instead of cowering in fear, they'll be racking their brains for answers.",
+      "authors": [
+        "Stephen J. Spignesi"
+      ],
+      "publisher": "Signet Book",
+      "page_count": 228,
+      "language": "en",
+      "isbn": "0451167082",
+      "google_books_id": "Ut1MbBSDJ-EC",
+      "thumbnail": "http://books.google.com/books/content?id=Ut1MbBSDJ-EC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "The chronicle of Henry of Huntingdon. Also, The acts of Stephen, king of England, Tr. and ed. by T. Forester",
+      "publication_year": 1853,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Henricus (de Huntingdon.)"
+      ],
+      "publisher": null,
+      "page_count": 540,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "PzIIAAAAQAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=PzIIAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Chatham house, by stephen king-hall",
+      "publication_year": 1937,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "Stephen King-hall"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "U8dxngEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King's N",
+      "publication_year": 2010,
+      "genre": "Horror comic books, strips, etc",
+      "summary": "\"Based on the short story from Stephen King's Just after sunset, N. was adapted by top Marvel talents Marc Guggenheim (Wolverine, Amazing Spider-Man) and Alex Maleev (Daredevil, Halo: Uprising) with creative oversight by the author himself into a series of trend-setting online webisodes. This bone-chilling tale of obsession, contagion and murder is now collected in graphic form for the first time\"--P. [4] of cover.",
+      "authors": [
+        "Marc Guggenheim"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "mfEzzwEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Stephen King & Joe Hill: Road Rage",
+      "publication_year": 2014,
+      "genre": null,
+      "summary": "Showdown auf einem staubigen Highway, irgendwo in den Weiten Amerikas: Eine Motorrad-Gang überholt einen Truck. Plötzlich gibt der Fahrer des Trucks Gas und es beginnt eine tödliche Verfolgungsjagd am Limit für Mensch und Maschine. Wer bremst, verliert ... sein Leben! Joe Hill, mit dem Eisner Award geehrter Comic-Autor (Locke Key) und für seine Romane mehrfach ausgezeichneter Schriftsteller, schuf zusammen mit seinem Vater Stephen King den Highway-Thriller Throttle (Vollgas) als Verneigung vor Richard Mathesons Erzählung Duell, die durch Steven Spielberg auch zu filmischer Berühmtheit gelangte. Beide Geschichten finden sich in diesem Band, adaptiert von Chris Ryall und grossartig in Szene gesetzt von Nelson Daniel und Rafa Garres. DAS ERSTE COMIC-TEAM UP VON STEPHEN KING UND JOE HILL!",
+      "authors": [
+        "Stephen King",
+        "Joe Hill"
+      ],
+      "publisher": null,
+      "page_count": null,
+      "language": "de",
+      "isbn": "3957830893",
+      "google_books_id": "Z4jvwAEACAAJ",
+      "thumbnail": null
+    }
+  ]
+}

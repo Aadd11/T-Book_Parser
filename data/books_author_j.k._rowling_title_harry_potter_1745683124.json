@@ -1,0 +1,770 @@
+{
+  "metadata": {
+    "query": {
+      "author": "J.K. Rowling",
+      "title": "Harry Potter",
+      "max_results": 50,
+      "batch_size": 40
+    },
+    "stats": {
+      "total_books": 50,
+      "timestamp": "2025-04-26T20:58:46.950091",
+      "execution_time_seconds": 2.126009464263916
+    }
+  },
+  "books": [
+    {
+      "title": null,
+      "publication_year": null,
+      "genre": null,
+      "summary": null,
+      "authors": [],
+      "publisher": null,
+      "page_count": 353,
+      "language": "en",
+      "isbn": "9781408894620",
+      "google_books_id": "08tjDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=08tjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "‏هيرى پوٹر اور رازوں کا کمره :‏",
+      "publication_year": 2004,
+      "genre": "Juvenile Fiction",
+      "summary": "An Urdu language edition of the second Harry Potter tale.",
+      "authors": [
+        "J. K. Rowling",
+        "Darakhshanda Asghar Khokhar"
+      ],
+      "publisher": "Oxford University Press, USA",
+      "page_count": 314,
+      "language": "ur",
+      "isbn": "0195798767",
+      "google_books_id": "gal9MtXKC68C",
+      "thumbnail": "http://books.google.com/books/content?id=gal9MtXKC68C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, Book 1)",
+      "publication_year": 2023,
+      "genre": "Juvenile Fiction",
+      "summary": "Harry Potter has never been the star of a Quidditch team, scoring points while riding a broom far above the ground. He knows no spells, has never helped to hatch a dragon, and has never worn a cloak of invisibility. All he knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley - a great big swollen spoiled bully. Harry's room is a tiny closet at the foot of the stairs, and he hasn't had a birthday party in eleven years. But all that is about to change when a mysterious letter arrives by owl messenger: a letter with an invitation to an incredible place that Harry - and anyone who reads about him - will find unforgettable.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Scholastic Incorporated",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1338878921",
+      "google_books_id": "ZiJMzwEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=ZiJMzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "publication_year": 2000,
+      "genre": "England",
+      "summary": null,
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": null,
+      "page_count": 734,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "pLXwzgEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Harry Potter y la piedra filosofal",
+      "publication_year": 2001,
+      "genre": "Juvenile Fiction",
+      "summary": "Harry Potter y la piedra filosofal es el primer volumen de la ya clásica serie de novelas fantásticas de la autora británica J.K. Rowling. «Con las manos temblorosas, Harry le dio la vuelta al sobre y vio un sello de lacre púrpura con un escudo de armas: un león, un águila, un tejón y una serpiente, que rodeaban una gran letra H.» Harry Potter nunca ha oído hablar de Hogwarts hasta que empiezan a caer cartas en el felpudo del número 4 de Privet Drive. Llevan la dirección escrita con tinta verde en un sobre de pergamino amarillento con un sello de lacre púrpura, y sus horripilantes tíos se apresuran a confiscarlas. Más tarde, el día que Harry cumple once años, Rubeus Hagrid, un hombre gigantesco cuyos ojos brillan como escarabajos negros, irrumpe con una noticia extraordinaria: Harry Potter es un mago, y le han concedido una plaza en el Colegio Hogwarts de Magia y Hechicería. ¡Está a punto de comenzar una aventura increíble! ENGLISH DESCRIPTION Harry Potter and the Sorcerer's Stone is the first volume of British author J.K. Rowling's now classic series of fantasy novels. With trembling hands, Harry turned over the envelope and saw a purple wax seal with a coat of arms: a lion, an eagle, a badger, and a snake, all surrounding a large letter H. Harry Potter has never heard of Hogwarts before, until letters start falling at the doorstep of 4 Privet Drive. The address is written in green ink on a yellowed parchment envelope with a purple wax seal stamped on it, and his repugnant aunt and uncle rush to remove and hide them. Later, on Harry's eleventh birthday, Rubeus Hagrid, a gigantic man whose eyes sparkle like black beetles, shows up with extraordinary news: Harry Potter is a wizard, and he has been awarded a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin!",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Lectorum Publications",
+      "page_count": 272,
+      "language": "es",
+      "isbn": null,
+      "google_books_id": "8UJaAAAAYAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=8UJaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter",
+      "publication_year": 2013,
+      "genre": "Fiction",
+      "summary": "J.K. Rowling's Harry Potter novels are now available in these spectacular new editions, with beautifully designed jackets by renowned woodcut artist Andrew Davidson. This stylish boxed set includes all seven novels and is perfect for Harry Potter novices and collectors alike. Contains (in reading order):Harry Potter and the Philosopher's Stone,Harry Potter and the Chamber of Secrets,Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet of Fire,Harry Potter and the Order of the Phoenix,Harry Potter and the Half-Blood Prince, andHarry Potter and the Deathly Hallows.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Publishing",
+      "page_count": 225,
+      "language": "en",
+      "isbn": "9781408850756",
+      "google_books_id": "IaUyEAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=IaUyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets by J.K. Rowling",
+      "publication_year": 2000,
+      "genre": "Education",
+      "summary": "Young wizard Harry Potter finds himself back at the miserable Hogwarts School of Witchcraft and Wizardry. He doesn't realize the difficulty of the task that awaits him. Harry must pull out all the stops in order to find his missing friend. No Canadian Rights for the Harry Potter Series HARRY POTTER and all related characters and elements are trademarks of and (c) Warner Bros. Entertainment Inc. Harry Potter publishing rights (c) J. K. Rowling. (s05)",
+      "authors": [
+        "J. K. Rowling",
+        "Linda Ward Beech"
+      ],
+      "publisher": "Scholastic Teaching Resources",
+      "page_count": 16,
+      "language": "en",
+      "isbn": "043921114X",
+      "google_books_id": "mOsbHQAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=mOsbHQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "publication_year": 1997,
+      "genre": "Children's stories",
+      "summary": "Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School of Witchcraft and Wizardry.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": null,
+      "page_count": 309,
+      "language": "en",
+      "isbn": "0590353403",
+      "google_books_id": "kTH6zAEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=kTH6zAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "publication_year": 2000,
+      "genre": null,
+      "summary": "Young wizard-in-training Harry Potter prepares for a competition between Hogwarts School of Magic and two rival schools, develops a crush on Cho Chang, and wishes above all to be a normal fourteen-year-old.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": "0439139597",
+      "google_books_id": "5zaozwEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=5zaozwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": null,
+      "publication_year": null,
+      "genre": null,
+      "summary": null,
+      "authors": [],
+      "publisher": null,
+      "page_count": 561,
+      "language": "en",
+      "isbn": "9781408894767",
+      "google_books_id": "3ctjDwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=3ctjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone by J.K. Rowling",
+      "publication_year": 2000,
+      "genre": "Education",
+      "summary": "A beautifully bound edition of the first book in the best-selling Harry Potter series -- As a fixture on the New York Times Bestseller List. Happy Potter and The Sorcerer's Stone has quickly become a modern-day classic. -- With its embossed leather cover, and gold foil stamping, this classic, timeless edition will appeal to Harry Potter fans and adult collectors. -- Features an original, never-before-seen sketch of Harry by J. K. Rowling",
+      "authors": [
+        "Linda Ward Beech"
+      ],
+      "publisher": "Scholastic Teaching Resources",
+      "page_count": 16,
+      "language": "en",
+      "isbn": "0439211166",
+      "google_books_id": "1kYxPQAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=1kYxPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter Boxed Set",
+      "publication_year": 2002,
+      "genre": "Juvenile Fiction",
+      "summary": "The magical books that started it all are now available in paperback in a set of three: \"Harry Potter and the Sorcerer's Stone; Harry Potter and the Chamber of Secrets\"; and \"Harry Potter and the Prisoner of Azkaban.\"",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Arthur A. Levine Books",
+      "page_count": null,
+      "language": "en",
+      "isbn": "0439324661",
+      "google_books_id": "QCp6PQAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=QCp6PQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire by J.K. Rowling",
+      "publication_year": 2000,
+      "genre": "Education",
+      "summary": "It is Harry s fourth year at Hogwarts and there are spells to be learnt, potions to be brewed and Divination lessons to be attended. Harry is expecting these: however, other quite unexpected events are already on the march",
+      "authors": [
+        "J. K. Rowling",
+        "Linda Ward Beech"
+      ],
+      "publisher": "Scholastic Professional Books",
+      "page_count": 16,
+      "language": "en",
+      "isbn": "0439231949",
+      "google_books_id": "fI9EGwAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=fI9EGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter Books 1-7 Special Edition Boxed Set",
+      "publication_year": 2018,
+      "genre": "England",
+      "summary": "This collectible new boxed set contains the complete bestselling Harry Potter series, books 1-7, brilliantly redesigned by Caldecott Medalist Selznick in celebration of the 20th anniversary of the publication of \"Harry Potter and the Sorcerer's Stone.\"",
+      "authors": [
+        "J. k. Rowling"
+      ],
+      "publisher": "Arthur A. Levine Books",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1338218395",
+      "google_books_id": "TlWeswEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=TlWeswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publication_year": 2015,
+      "genre": "Juvenile Fiction",
+      "summary": "'There is a plot, Harry Potter. A plot to make most terrible things happen at Hogwarts School of Witchcraft and Wizardry this year.' Harry Potter's summer has included the worst birthday ever, doomy warnings from a house-elf called Dobby, and rescue from the Dursleys by his friend Ron Weasley in a magical flying car! Back at Hogwarts School of Witchcraft and Wizardry for his second year, Harry hears strange whispers echo through empty corridors - and then the attacks start. Students are found as though turned to stone... Dobby's sinister predictions seem to be coming true. Having become classics of our time, the Harry Potter eBooks never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
+      "authors": [
+        "J.K. Rowling"
+      ],
+      "publisher": "Pottermore Publishing",
+      "page_count": 343,
+      "language": "en",
+      "isbn": "9781781100509",
+      "google_books_id": "5iTebBW-w7QC",
+      "thumbnail": "http://books.google.com/books/content?id=5iTebBW-w7QC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter: The Complete Collection (1-7)",
+      "publication_year": 2015,
+      "genre": "Juvenile Fiction",
+      "summary": "When Harry Potter is left on a doorstep as a baby, he has no idea he is the Boy Who Lived, or that he is famous throughout the wizarding world. Years later, he is astonished to receive an acceptance letter to Hogwarts School of Witchcraft and Wizardry and he is soon whisked off on a magical adventure like no other. Join Harry and his fiercely loyal friends, Hermione and Ron, in this story about the power of truth, love and hope. Having become classics of our time, the Harry Potter eBooks never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
+      "authors": [
+        "J.K. Rowling"
+      ],
+      "publisher": "Pottermore Publishing",
+      "page_count": 4150,
+      "language": "en",
+      "isbn": "9781781106464",
+      "google_books_id": "f280CwAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=f280CwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows",
+      "publication_year": 2007,
+      "genre": "Juvenile Fiction",
+      "summary": "At a time when the forces of evil seem to be gaining the upper hand, Harry comes of age in the wizarding world, and must take on and defeat Voldemort--or be killed himself.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": null,
+      "page_count": 792,
+      "language": "en",
+      "isbn": null,
+      "google_books_id": "GZAoAQAAIAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=GZAoAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter - The Illustrated Collection",
+      "publication_year": 2017,
+      "genre": null,
+      "summary": null,
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Publishing",
+      "page_count": null,
+      "language": "en",
+      "isbn": "1408897318",
+      "google_books_id": "7yyUswEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=7yyUswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets - Gryffindor Edition",
+      "publication_year": 2018,
+      "genre": "Fiction",
+      "summary": "Let the magic of J.K. Rowling's classic series take you back to Hogwarts School of Witchcraft and Wizardry. Issued to mark the 20th anniversary of first publication ofHarry Potter and the Chamber of Secrets, these irresistible House Editions celebrate the noble character of the four Hogwarts houses. Featuring gorgeous house-themed cover art and interior line illustrations by Kate Greenaway Medal winner Levi Pinfold, each book will also have vibrant sprayed edges in the house livery. Entertaining bonus features exclusive to each house accompany the novel. All seven books in the series will be issued in these highly collectable House Editions. A must-have for anyone who has ever imagined sitting under the Sorting Hat in the Great Hall at Hogwarts waiting to hear the words, 'Better be GRYFFINDOR!' You'll always find a home at Hogwarts!",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Publishing",
+      "page_count": 385,
+      "language": "en",
+      "isbn": "9781408898093",
+      "google_books_id": "_wRbEAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=_wRbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter Paperback Boxed Set: Books 1-7",
+      "publication_year": 2009,
+      "genre": "Juvenile Fiction",
+      "summary": "For the first time, Rowling's seven bestselling Harry Potter books are available in a paperback boxed set. This is the ultimate Harry Potter collection for Potter fans.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": "0545162076",
+      "google_books_id": "BFnuwAEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=BFnuwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix",
+      "publication_year": 2003,
+      "genre": "Children's stories",
+      "summary": "Harry Potter is due to start his fifth year at Hogwarts School of Witchcraft and Wizardry. He is desperate to get back to school and find out why his friends Ron and Hermione have been so secretive all summer. However, what Harry is about to discover in his new year at Hogwarts will turn his world upside down ...Harry Potter and the Order of the Phoenix continues the riveting tale of a 15-year-old wizard and his extraordinary powers. This gripping and electrifying new novel is full of suspense, secrets, and--of course--magic, from the incomparable J. K. Rowling. \"A richly imagined world to which young readers will surrender themselves, and one of the most attractive heroes to come around in a long time.\"-Globe and Mail",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Publishing",
+      "page_count": 1520,
+      "language": "en",
+      "isbn": "0747569606",
+      "google_books_id": "MmjaGwAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=MmjaGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter: A Magical Year -- The Illustrations of Jim Kay",
+      "publication_year": 2021,
+      "genre": "Juvenile Fiction",
+      "summary": "This \"book takes readers on an unforgettable journey through the seasons at Hogwarts. Jim Kay's captivating illustrations, paired with much-loved quotations from J.K. Rowling's Harry Potter novels -- one moment, anniversary, or memory for every day of the year -- bring to life all of the magic, beauty, and wonder of the wizarding world\"--",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Scholastic",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1338809970",
+      "google_books_id": "9MxqzgEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=9MxqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter et la coupe de feu",
+      "publication_year": 2001,
+      "genre": "Juvenile Fiction",
+      "summary": "Harry Potter a quatorze ans et il entre en quatrième année au collège de Poudlard. Une grande nouvelle attend Harry, Ron et Hermione à leur arrivée : la tenue d'un tournoi de magie exceptionnel entre les plus célèbres écoles de sorcellerie. Déjà, les délégations étrangères font leur entrée. Harry se réjouit... Trop vite. Il va se trouver plongé au cœur des événements les plus dramatiques qu'il ait jamais eu à affronter. Fascinant, drôle, bouleversant, ce quatrième tome est le pilier central des aventures de Harry Potter.",
+      "authors": [
+        "J. K. Rowling",
+        "Jean-François Ménard"
+      ],
+      "publisher": "Gallimard-Jeunesse",
+      "page_count": 768,
+      "language": "fr",
+      "isbn": "207054351X",
+      "google_books_id": "7zeyHAAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=7zeyHAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone - 25th Anniversary Edition",
+      "publication_year": 2022,
+      "genre": "Boarding school students",
+      "summary": "Galloping gargoyles ... 2022 is the silver anniversary of J.K. Rowling's magical classic Harry Potter and the Philosopher's Stone! In celebration of 25 years of Harry Potter magic, Bloomsbury is proud to be releasing a special commemorative edition featuring the much loved original cover design, with artwork by Thomas Taylor. After its first publication in 1997, the illustration of Harry Potter with his lightning bolt scar, standing next to the Hogwarts Express on Platform Nine and Three-Quarters, would go on to become one of the most iconic book covers of the twentieth century, offering a tantalising first glimpse of J.K. Rowling's endlessly spellbinding wizarding world. Since then, Harry Potter and his epic adventures have become a cultural phenomenon, bewitching millions of readers all across the globe. This irresistible anniversary edition - available for one year only - will bring back treasured memories for the fans who remember the excitement when Harry's journey first began, as well as introduce a new generation to the unforgettable story of the Boy Who Lived. In addition to a bright dust jacket emblazoned with a removable silver sticker, readers will discover a wealth of celebratory bonus content inside. Decorated with the original hand-drawn Hogwarts crest, the inside pages also feature the fully updated and redesigned story text to provide the perfect reading experience. The ultimate Harry Potter gift and a must for any bookshelf, this once-in-a-generation collector's edition of Harry Potter and the Philosopher's Stone will take you on the magical journey of a lifetime ...",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "152664665X",
+      "google_books_id": "nYKYzgEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=nYKYzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban /",
+      "publication_year": 1999,
+      "genre": "Magic",
+      "summary": "During his third year at Hogwarts School for Witchcraft and Wizardry, Harry Potter must confront the devious and dangerous wizard responsible for his parents' deaths.",
+      "authors": [
+        "J. K. Rowling",
+        "Éditions Scholastic"
+      ],
+      "publisher": null,
+      "page_count": 317,
+      "language": "en",
+      "isbn": "0439989485",
+      "google_books_id": "V9D6lwEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets - Ravenclaw Edition",
+      "publication_year": 2018,
+      "genre": "Children's stories",
+      "summary": "Let the magic of J.K. Rowling's classic series take you back to Hogwarts School of Witchcraft and Wizardry. Issued to mark the 20th anniversary of first publication ofHarry Potter and the Chamber of Secrets, these irresistible House Editions celebrate the noble character of the four Hogwarts houses. Featuring gorgeous house-themed cover art and interior line illustrations by Kate Greenaway Medal winner Levi Pinfold, each book will also have vibrant sprayed edges in the house livery. Entertaining bonus features exclusive to each house accompany the novel. All seven books in the series will be issued in these highly collectable House Editions. A must-have for anyone who has ever imagined sitting under the Sorting Hat in the Great Hall at Hogwarts waiting to hear the words, 'Better be RAVENCLAW!' You'll always find a home at Hogwarts!",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1408898144",
+      "google_books_id": "rWvQswEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=rWvQswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter",
+      "publication_year": 2025,
+      "genre": "Fiction",
+      "summary": "Calling all fans of J.K. Rowling's Harry Potter stories! The POCKET POTTERS are the must-have guides to all of your favourite characters from the wizarding world. How old was Harry when he first started at Hogwarts? Who gave him the Marauder's Map, and how big is a Golden Snitch? Find out all this and much more about Harry Potter! Peek at Harry in his spidery cupboard under the stairs, find out what he buys in Diagon Alley and explore the Gryffindor dormitory. Get set for dragon encounters, Quidditch thrills, secret passwords and a wand from Ollivanders ... Joyfully illustrated, boisterously brilliant, the POCKET POTTERS are collectable, must-have mini-guides to the Harry Potter stories. Whether you are just starting your reading journey with Harry, or you already know your Nimbus Two Thousand from your Firebolt, each of the POCKET POTTERS is perfect for sharing together or reading alone. There's magic and mischief waiting inside! Which of the POCKET POTTERS is your favourite?",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "152667260X",
+      "google_books_id": "Bx8a0QEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=Bx8a0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter",
+      "publication_year": 1999,
+      "genre": "Bildungsromans",
+      "summary": "During his third year at Hogwarts School for witchcraft and wizardry, Harry Potter must confront the devious and dangerous wizard responsable for his parents death.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": null,
+      "page_count": 435,
+      "language": "en",
+      "isbn": "0439136350",
+      "google_books_id": "tY8RzgEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone - Ravenclaw Edition",
+      "publication_year": 2017,
+      "genre": "Children's stories",
+      "summary": "Gryffindor, Slytherin, Hufflepuff, Ravenclaw ... Twenty years ago these magical words and many more flowed from a young writer's pen, an orphan called Harry Potter was freed from the cupboard under the stairs - and a global phenomenon started. Harry Potter and the Philosopher's Stone has been read and loved by every new generation since. To mark the 20th anniversary of first publication, Bloomsbury has published four House Editions of J.K. Rowling's modern classic. These stunning editions each feature the individual house crest on the jacket and line illustrations exclusive to that house, by Kate Greenaway Medal winner Levi Pinfold. Exciting new extra content includes fact files and profiles of favourite characters, and each book has sprayed edges in the house colours. Available for a limited period only, these highly collectable editions are a must-have for all Harry Potter fans.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 368,
+      "language": "en",
+      "isbn": "1408883783",
+      "google_books_id": "ZUAvvgAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=ZUAvvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone - Hufflepuff Edition",
+      "publication_year": 2017,
+      "genre": "Children's stories",
+      "summary": "Gryffindor, Slytherin, Hufflepuff, Ravenclaw ... Twenty years ago these magical words and many more flowed from a young writer's pen, an orphan called Harry Potter was freed from the cupboard under the stairs - and a global phenomenon started. Harry Potter and the Philosopher's Stone has been read and loved by every new generation since. To mark the 20th anniversary of first publication, Bloomsbury has published four House Editions of J.K. Rowling's modern classic. These stunning editions each feature the individual house crest on the jacket and line illustrations exclusive to that house, by Kate Greenaway Medal winner Levi Pinfold. Exciting new extra content includes fact files and profiles of favourite characters, and each book has sprayed edges in the house colours. Available for a limited period only, these highly collectable editions are a must-have for all Harry Potter fans.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 368,
+      "language": "en",
+      "isbn": "1408883805",
+      "google_books_id": "MZ4svgAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=MZ4svgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter 1-3 Box Set: MinaLima Edition",
+      "publication_year": 2024,
+      "genre": "Juvenile Fiction",
+      "summary": "Experience the first three books in J.K. Rowling's Harry Potter series as never before! Designed and illustrated by MinaLima - the award-winning studio behind the visual graphic style of the Harry Potter films - each edition presents J.K. Rowling's complete and unabridged text, accompanied by full-colour illustrations on nearly every page and eight inventive paper-engineered features. Readers will open Harry's Hogwarts letter, reveal the magical entrance to Diagon Alley, travelvia Floo powder, spin the Time-Turner and more. This box set includes Harry Potter and the Philosopher's Stone, Harry Potter and the Chamber of Secrets and Harry Potter and the Prisoner of Azkaban, collected together in one gorgeous slipcase embellished with decorative gold foil. This set is a stunning gift for Harry Potter fans of all ages and the perfect way to introduce this beloved series to new readers who are just beginning their magical journey.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1526680068",
+      "google_books_id": "eqKu0AEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=eqKu0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone - Slytherin Edition",
+      "publication_year": 2017,
+      "genre": "Children's stories",
+      "summary": "Gryffindor, Slytherin, Hufflepuff, Ravenclaw ... Twenty years ago these magical words and many more flowed from a young writer's pen, an orphan called Harry Potter was freed from the cupboard under the stairs - and a global phenomenon started.Harry Potter and the Philosopher's Stonehasbeen read and loved by every new generation since. To mark the 20th anniversary of first publication, Bloomsbury has published four House Editions of J.K. Rowling's modern classic. These stunning editions each feature the individual house crest on the jacket and line illustrations exclusive to that house, by Kate Greenaway Medal winner Levi Pinfold. Exciting new extra content includes fact files and profiles of favourite characters, and each book has sprayed edges in the house colours. Available for a limited period only, these highly collectable editions are a must-have for all Harry Potter fans.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1408883767",
+      "google_books_id": "Jrg5vgAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=Jrg5vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire - Hufflepuff Edition",
+      "publication_year": 2020,
+      "genre": "Juvenile Fiction",
+      "summary": "This Hufflepuff House Edition of Harry Potter and the Goblet of Fire celebrates the noble character of the Hogwarts house famed for its dedication, patience and loyalty. Harry's fourth year at Hogwarts is packed with more great Hufflepuff moments and characters not least the heroism and valour of Hogwarts champion Cedric Diggory in the thrilling Triwizard Tournament.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 627,
+      "language": "en",
+      "isbn": "1526610299",
+      "google_books_id": "1AD5yAEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=1AD5yAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban - Gryffindor Edition",
+      "publication_year": 2019,
+      "genre": "Juvenile Fiction",
+      "summary": null,
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 480,
+      "language": "en",
+      "isbn": "1526606178",
+      "google_books_id": "9SgCwgEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=9SgCwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows - Hufflepuff Edition",
+      "publication_year": 2021,
+      "genre": "Juvenile Fiction",
+      "summary": null,
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 640,
+      "language": "en",
+      "isbn": "1526618346",
+      "google_books_id": "wyjkzQEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=wyjkzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire - Gryffindor Edition",
+      "publication_year": 2020,
+      "genre": "Juvenile Fiction",
+      "summary": "Harry Potter joins the Weasleys at the Quidditch World Cup, then enters his fourth year at Hogwarts Academy where he is mysteriously entered in an unusual contest that challenges his wizarding skills, friendships and character, amid signs that an old enemy is growing stronger. Harry's fouth year is packed with more great Gryffindor moments and characters... Look inside to discover more Gryffindor-themed features and illustrations by Levi Pinfold.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 627,
+      "language": "en",
+      "isbn": "1526610272",
+      "google_books_id": "2FsQyQEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=2FsQyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter y la cámara secreta / Harry Potter and the Chamber of Secrets",
+      "publication_year": 2020,
+      "genre": "Juvenile Fiction",
+      "summary": "Harry Potter y la cámara secreta, el segundo volumen de la ya clásica serie de novelas fantásticas de la autora británica J.K. Rowling. «Hay una conspiración, Harry Potter. Una conspiración para hacer que este año sucedan las cosas más terribles en el Colegio Hogwarts de Magia y Hechicería.» El verano de Harry Potter ha incluido el peor cumpleaños de su vida, las funestas ad-vertencias de un elfo doméstico llamado Dobby y el rescate de casa de los Dursley pro-tagonizado por su amigo Ron Weasley al volante de un coche mágico volador. De vuelta en el Colegio Hogwarts de Magia y Hechicería, donde va a empezar su segundo curso, Harry oye unos extraños susurros que resuenan por los pasillos vacíos. Y entonces empiezan los ataques y varios alumnos aparecen petrificados... Por lo visto, las siniestras predicciones de Dobby se están cumpliendo... ENGLISH DESCRIPTION Harry Potter and the Chamber of Secrets is the second volume of British author J.K. Rowling’s now classic series of fantasy novels. “There is a conspiracy, Harry Potter. A plot to make the most terrible things happen this year at Hogwarts School of Witchcraft and Wizardry.” This summer Harry has had the worst birthday of his life, dire warnings by a house elf named Dobby, and a rescue from the Dursleys' house starring his friend Ron Weasley at the helm of a magical flying car. Back at Hogwarts School of Witchcraft and Wizardry, where his sophomore year is about to begin, Harry hears strange whispers echoing through the empty hallways. And then the attacks begin and several students are found turned to stone ... Apparently, Dobby's sinister predictions are coming true.",
+      "authors": [
+        "J.K. Rowling"
+      ],
+      "publisher": "National Geographic Books",
+      "page_count": 0,
+      "language": "es",
+      "isbn": "9781644732083",
+      "google_books_id": "PKiQEAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=PKiQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter",
+      "publication_year": 2016,
+      "genre": null,
+      "summary": "Harry Potter and the Prisoner of Azkaban is the third novel in the Harry Potter series, written by J. K. Rowling. The book follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry. Along with friends Ron Weasley and Hermione Granger, Harry investigates Sirius Black, an escaped prisoner from Azkaban whom they believe is one of Lord Voldemort's old allies. The book was published in the United Kingdom on 8 July 1999 by Bloomsbury and in the United States on 8 September 1999 by Scholastic Inc.[2][3][4][5] Rowling found the book easy to write, finishing it just a year after she had begun writing it. The book sold 68,000 copies in just three days after its release in the United Kingdom, and since has sold over three million in the country.[6] The book won the 1999 Whitbread Children's Book Award, the Bram Stoker Award, the 2000 Locus Award for Best Fantasy Novel, and was short-listed for other awards, including the Hugo. The film adaptation of the novel was released in 2004, grossing more than $796 million and earned notable critical acclaim. Video games loosely based on Harry Potter and the Prisoner of Azkaban were also released for several platforms, and most obtained favourable reviews.",
+      "authors": [
+        "Rowling Joanne K"
+      ],
+      "publisher": null,
+      "page_count": 148,
+      "language": "en",
+      "isbn": "1523480661",
+      "google_books_id": "1uBGjwEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=1uBGjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter Si Camera Secretelor",
+      "publication_year": 2021,
+      "genre": "Carti in limba romana",
+      "summary": "Harry Potter are o vara plina: petrece o zi de nastere groaznica, primeste avertizari sinistre de la un elf de casa pe nume Dobby si fuge de la familia Dursley cu masina zburatoare a prietenului sau Ron. La Hogwarts incepe un nou an scolar, iar Harry aude niste soapte ciudate pe coridoarele goale. Apoi au loc mai multe atacuri misterioase - previziunile sumbre ale lui Dobby par sa se adevereasca...\" -- Back cover.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": null,
+      "page_count": 0,
+      "language": "en",
+      "isbn": "6060861326",
+      "google_books_id": "2wJYzwEACAAJ",
+      "thumbnail": null
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire - Ravenclaw Edition",
+      "publication_year": 2020,
+      "genre": "Juvenile Fiction",
+      "summary": "Harry Potter joins the Weasleys at the Quidditch World Cup, then enters his fourth year at Hogwarts Academy where he is mysteriously entered in an unusual contest that challenges his wizarding skills, friendships and character, amid signs that an old enemy is growing stronger. Harry's fouth year is packed with more great Ravenclaw moments and characters, including the return of Moaning Myrtle... Look inside to discover more Ravenclaw-themed features and illustrations by Levi Pinfold.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 627,
+      "language": "en",
+      "isbn": "1526610310",
+      "google_books_id": "rEbkyAEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=rEbkyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter y la piedra filosofal / Harry Potter and the Sorcerer's Stone",
+      "publication_year": 2020,
+      "genre": "Juvenile Fiction",
+      "summary": "Harry Potter y la piedra filosofal es el primer volumen de la ya clásica serie de novelas fantásticas de la autora británica J.K. Rowling. «Con las manos temblorosas, Harry le dio la vuelta al sobre y vio un sello de lacre púrpura con un escudo de armas: un león, un águila, un tejón y una serpiente, que rodeaban una gran letra H.» Harry Potter nunca ha oído hablar de Hogwarts hasta que empiezan a caer cartas en el felpudo del número 4 de Privet Drive. Llevan la dirección escrita con tinta verde en un sobre de pergamino amarillento con un sello de lacre púrpura, y sus horripilantes tíos se apresuran a confiscarlas. Más tarde, el día que Harry cumple once años, Rubeus Hagrid, un hombre gigantesco cuyos ojos brillan como escarabajos negros, irrumpe con una noticia extraordinaria: Harry Potter es un mago, y le han concedido una plaza en el Colegio Hogwarts de Magia y Hechicería. ¡Está a punto de comenzar una aventura increíble! ENGLISH DESCRIPTION Harry Potter and the Sorcerer's Stone is the first volume of British author J.K. Rowling’s now classic series of fantasy novels. \"With trembling hands, Harry turned over the envelope and saw a purple wax seal with a coat of arms: a lion, an eagle, a badger, and a snake, all surrounding a large letter H.\" Harry Potter has never heard of Hogwarts before, until letters start falling at the doorstep of 4 Privet Drive. The address is written in green ink on a yellowed parchment envelope with a purple wax seal stamped on it, and his repugnant aunt and uncle rush to remove and hide them. Later, on Harry's eleventh birthday, Rubeus Hagrid, a gigantic man whose eyes sparkle like black beetles, shows up with extraordinary news: Harry Potter is a wizard, and he has been awarded a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin!",
+      "authors": [
+        "J.K. Rowling"
+      ],
+      "publisher": "National Geographic Books",
+      "page_count": 0,
+      "language": "es",
+      "isbn": "9781644732076",
+      "google_books_id": "NqiQEAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=NqiQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows - Gryffindor Edition",
+      "publication_year": 2021,
+      "genre": "Juvenile Fiction",
+      "summary": null,
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 640,
+      "language": "en",
+      "isbn": "1526618311",
+      "google_books_id": "_wHizQEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=_wHizQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire - Slytherin Edition",
+      "publication_year": 2020,
+      "genre": "Juvenile Fiction",
+      "summary": "This Slytherin House Edition of Harry Potter and the Goblet of Fire celebrates the noble character of the Hogwarts house famed for its pride, ambition and cunning. Harry's fourth year at Hogwarts is packed with more great Slytherin moments and characters, culminating in the terrifying finale of the Triwizard Tournament, which sees the momentous return of Voldemort, the greatest Dark Wizard of all time.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 627,
+      "language": "en",
+      "isbn": "1526610345",
+      "google_books_id": "ggz5yAEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=ggz5yAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Classic Books from the Library of Hogwarts School of Witchcraft and Wizardry",
+      "publication_year": 2001,
+      "genre": null,
+      "summary": "Find out more about Harry Potter's world by reading two of his Hogwarts textbooks. Quidditch Through the Ages begins with the history of broomsticks, describes the evolution of Quidditch, and includes the rules of the game as well as a chapter on modern-day play. Fantastic Beasts and Where to Find Them is the most complete A to Z listing of magical beasts that exists, and includes their classifications.",
+      "authors": [
+        "Kennilworthy Whisp",
+        "Newt Scamander",
+        "J. K. Rowling"
+      ],
+      "publisher": "Arthur A. Levine Books",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "0439284031",
+      "google_books_id": "9M-iPAAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=9M-iPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix - Ravenclaw Edition",
+      "publication_year": 2020,
+      "genre": "Juvenile Fiction",
+      "summary": "Ravenclaw values are under attack as the Minister for Magic tries to suppress the truth and a High Inquisitor of Hogwarts is appointed in Harry's fifth year. Professor Sybill Trelawney, visionary Seer, is one of the first casualities of Professor Umbridge's mirthless regime. Luna Lovegood ensures that the truth is given voice through that most independent of publications, The Quibbler. This Ravenclaw edition of Harry Potter and the Order of the Phoenix celebrates the house famed for its wit, learning and wisdom.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 816,
+      "language": "en",
+      "isbn": "1526618192",
+      "google_books_id": "9E0FywEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=9E0FywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter y el cáliz de fuego / Harry Potter and the Goblet of Fire",
+      "publication_year": 2021,
+      "genre": "Juvenile Fiction",
+      "summary": "Harry Potter y el cáliz de fuego es la cuarta entrega de la serie fantástica de la autora británica J.K. Rowling. «Habrá tres pruebas, espaciadas en el curso escolar, que medirán a los campeones en muchos aspectos diferentes: sus habilidades mágicas, su osadía, sus dotes de deducción y, por supuesto, su capacidad para sortear el peligro.» Se va a celebrar en Hogwarts el Torneo de los Tres Magos. Sólo los alumnos mayores de diecisiete años pueden participar en esta competición, pero, aun así, Harry sueña con ganarla. En Halloween, cuando el cáliz de fuego elige a los campeones, Harry se lleva una sorpresa al ver que su nombre es uno de los escogidos por el cáliz mágico. Durante el torneo deberá enfrentarse a desafíos mortales, dragones y magos tenebrosos, pero con la ayuda de Ron y Hermione, sus mejores amigos, ¡quizá logre salir con vida! ENGLISH DESCRIPTION Harry Potter and the Goblet of Fire is the fourth volume of British author J.K. Rowling’s now classic series of fantasy novels. “There will be three tests, spaced throughout the school year, that will test the champions in many different ways: their magical abilities, their daring, their deduction skills, and of course, their ability to overcome danger.” The Triwizard Tournament is going to be held at Hogwarts. Only students over the age of seventeen are allowed to enter the competition, but even so, Harry dreams of winning it. On Halloween, when the Goblet of Fire chooses the champions, Harry is shocked to see that his name is one of those chosen by the Magic Goblet. During the tournament he will have to face deadly challenges, dragons, and dark wizards, but with the help of his best friends Ron and Hermione, he may just be able to get out alive!",
+      "authors": [
+        "J.K. Rowling"
+      ],
+      "publisher": "National Geographic Books",
+      "page_count": 0,
+      "language": "es",
+      "isbn": "9786073193924",
+      "google_books_id": "wFaREAAAQBAJ",
+      "thumbnail": "http://books.google.com/books/content?id=wFaREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban: The Illustrated Edition",
+      "publication_year": 2017,
+      "genre": "Juvenile Fiction",
+      "summary": "For twelve long years, the dread fortress of Azkaban held an infamous prisoner named Sirius Black. Convicted of killing thirteen people with a single curse, he was said to be the heir apparent to the Dark Lord, Voldemort. Now he has escaped, leaving only two clues as to where he might be headed: Harry Potter's defeat of You-Know-Who was Black's downfall as well. And the Azkaban guards heard Black muttering in his sleep, \"He's at Hogwarts . . . he's at Hogwarts.\" Harry Potter isn't safe, not even within the walls of his magical school, surrounded by his friends. Because on top of it all, there may well be a traitor in their midst.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Arthur A. Levine Books",
+      "page_count": 336,
+      "language": "en",
+      "isbn": "0545791340",
+      "google_books_id": "u3mzAQAACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=u3mzAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince - Ravenclaw Edition",
+      "publication_year": 2021,
+      "genre": "Juvenile Fiction",
+      "summary": "Suspicion and fear blow through the wizarding world as news of the Dark Lord's attack on the Ministry of Magic spreads. Harry has not told anyone about the future predicted by the prophecy in the Department of Mysteries, nor how deeply what happened to Sirius Black affected him. He's desperate for Professor Dumbledore to arrive and take him away from the Dursley's but Hogwarts may not be the safe haven from Voldemort's Dark Forces that it once was. In his sixth year, the names Black, Malfoy, Lestrange and Snape will haunt Harry with shades of trust and treachery as he discovers the secret behind the mysterious Half-Blood Prince and Dumbledore prepares him to face his own terrifying destiny.",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 546,
+      "language": "en",
+      "isbn": "1526618273",
+      "google_books_id": "Loa7zQEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=Loa7zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets - Slytherin Edition",
+      "publication_year": 2018,
+      "genre": "Children's stories",
+      "summary": "Let the magic of J.K. Rowling's classic series take you back to Hogwarts School of Witchcraft and Wizardry. Issued to mark the 20th anniversary of first publication ofHarry Potter and the Chamber of Secrets, these irresistible House Editions celebrate the noble character of the four Hogwarts houses. Featuring gorgeous house-themed cover art and interior line illustrations by Kate Greenaway Medal winner Levi Pinfold, each book will also have vibrant sprayed edges in the house livery. Entertaining bonus features exclusive to each house accompany the novel. All seven books in the series will be issued in these highly collectable House Editions. A must-have for anyone who has ever imagined sitting under the Sorting Hat in the Great Hall at Hogwarts waiting to hear the words, 'Better be SLYTHERIN!' You'll always find a home at Hogwarts!",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1408898128",
+      "google_books_id": "R3notAEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=R3notAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban - Slytherin Edition",
+      "publication_year": 2019,
+      "genre": "Children's stories",
+      "summary": "Let the magic of J.K. Rowling's classic Harry Potter series take you back to Hogwarts School of Witchcraft and Wizardry. Issued to mark the 20th anniversary of first publication ofHarry Potter and the Prisoner of Azkaban, this irresistible Slytherin House Edition celebrates the noble character of the Hogwarts house famed for its pride, ambition and cunning. Harry's third year at Hogwarts is packed with thrilling Slytherin moments, including Draco Malfoy's typically sneaky attempts to sabotage the Gryffindor Seeker ... With vibrant sprayed edges in Slytherin house livery, the book features beautiful house-themed cover artwork with intricate gold foiling. With an exciting, bespoke introduction exploring the history of Slytherin House, and exclusive insights into the use of the Patronus Charm by favourite Slytherin characters, the book also boasts a spectacular image by Kate Greenaway winner Levi Pinfold of Severus Snape conjuring his Patronus. All seven books in the series will be issued in these highly collectable, beautifully crafted House Editions, designed to be treasured and read for years to come. A must-have for anyone who has ever imagined sitting under the Sorting Hat in the Great Hall at Hogwarts waiting to hear the words, 'Better be SLYTHERIN!'",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "page_count": 0,
+      "language": "en",
+      "isbn": "1526606224",
+      "google_books_id": "ldj1wQEACAAJ",
+      "thumbnail": "http://books.google.com/books/content?id=ldj1wQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    }
+  ]
+}
