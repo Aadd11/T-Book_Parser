@@ -10,37 +10,37 @@ from datetime import datetime
 logger = logging.getLogger(__name__)
 open_lib_bp = Blueprint('open_library', __name__)
 
+
 @open_lib_bp.route('/search/openlib', methods=['GET'])
 @async_route
 async def search_openlib():
-    language = request.args.get('lang', 'en')
-    return await _search_openlib(language=language)
+    return await _search_openlib(language='en')
+
+
+@open_lib_bp.route('/search/openlib/ru', methods=['GET'])
+@async_route
+async def search_openlib_ru():
+    return await _search_openlib(language='ru')
 
 
 async def _search_openlib(language: str):
     start_time = datetime.now()
 
     try:
+        # Use async context manager for the parser
         async with OpenLibraryParser() as parser:
+            # Validate parameters
             author = request.args.get('author', '').strip()
             title = request.args.get('title', '').strip()
             max_results = min(int(request.args.get('max_results', 50)), 200)
 
             if not author and not title:
-                error_msg = {
-                    'en': "Author or title required",
-                    'ru': "Укажите автора или название"
-                }.get(language, "Author or title required")
+                error_msg = "Укажите автора или название" if language == 'ru' else "Author or title required"
                 return jsonify({"error": error_msg}), 400
 
-            # Search with language preference
+            # Get structured data
             authors, genres, books, book_authors, book_genres = await asyncio.wait_for(
-                parser.get_all_structured_data(
-                    author=author,
-                    title=title,
-                    max_results=max_results,
-                    language='ru' if language == 'ru' else None
-                ),
+                parser.get_all_structured_data(author=author, title=title, max_results=max_results),
                 timeout=Config.REQUEST_TIMEOUT
             )
 
@@ -54,9 +54,9 @@ async def _search_openlib(language: str):
                 }
             }
 
-            # Translate only if needed
+            # Translate if needed
             if language == 'ru':
-                data = await TranslationManager.translate(data, target_lang='ru')
+                data = await TranslationManager.translate(data)
 
             return jsonify({
                 "metadata": {
@@ -64,22 +64,18 @@ async def _search_openlib(language: str):
                     "query": {
                         "author": author,
                         "title": title,
-                        "max_results": max_results,
-                        "language": language
+                        "max_results": max_results
                     },
                     "execution_time": str(datetime.now() - start_time),
-                    "timestamp": datetime.utcnow().isoformat()
+                    "timestamp": datetime.utcnow().isoformat(),
+                    "language": language
                 },
                 "data": data
             })
 
     except asyncio.TimeoutError:
         logger.error("Open Library search timeout")
-        error_msg = {
-            'en': "Service timeout",
-            'ru': "Таймаут сервиса"
-        }.get(language, "Service timeout")
-        return jsonify({"error": error_msg}), 504
+        return jsonify({"error": "Service timeout"}), 504
     except Exception as e:
         logger.exception("Open Library search failed")
         error_msg = str(e) if language == 'en' else "Ошибка сервера"
