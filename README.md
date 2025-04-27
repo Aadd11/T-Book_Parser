@@ -89,7 +89,7 @@
 
 ### 1. Build Image
 ```bash
-docker build -t t-book_parser:prod --target production .
+docker build -t t-book_parser:prod  .
 ```
 
 ### 2. Run Production Container
